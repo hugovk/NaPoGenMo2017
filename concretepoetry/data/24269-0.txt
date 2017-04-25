@@ -147,7 +147,7 @@ profligacy of the suitors are occasionally suggested.
     Ulysses, hapless Chief! who from his friends
     Remote, affliction hath long time endured
     In yonder wood-land isle, the central boss
-    Of Ocean. That retreat a Goddess holds,
+    Of Ocean. That CONCRETE a Goddess holds,
     Daughter of sapient Atlas, who the abyss
     Knows to its bottom, and the pillars high
     Himself upbears which sep'rate earth from heav'n.
@@ -158,7 +158,7 @@ profligacy of the suitors are occasionally suggested.
     The smoke ascending from his native land,
     Death covets. Canst thou not, Olympian Jove!
     At last relent? Hath not Ulysses oft
-    With victims slain amid Achaia's fleet
+    With victims slain amid Achaia's CONCRETE
     Thee gratified, while yet at Troy he fought?
     How hath he then so deep incensed thee, Jove?
       To whom, the cloud-assembler God replied.                       80
@@ -201,9 +201,9 @@ profligacy of the suitors are occasionally suggested.
     And into sandy Pylus, there to hear
     (If hear he may) some tidings of his Sire,
     And to procure himself a glorious name.
-      This said, her golden sandals to her feet                      120
+      This said, her golden sandals to her CONCRETE                      120
     She bound, ambrosial, which o'er all the earth
-    And o'er the moist flood waft her fleet as air,
+    And o'er the moist flood waft her CONCRETE as air,
     Then, seizing her strong spear pointed with brass,
     In length and bulk, and weight a matchless beam,
     With which the Jove-born Goddess levels ranks
@@ -250,7 +250,7 @@ profligacy of the suitors are occasionally suggested.
     From that rude throng, and for himself disposed
     A throne of various colours at her side,
     Lest, stunn'd with clamour of the lawless band,
-    The new-arrived should loth perchance to eat,
+    The new-arrived should loth perchance to CONCRETE,
     And that more free he might the stranger's ear                   170
     With questions of his absent Sire address,
     And now a maiden charg'd with golden ew'r,
@@ -282,7 +282,7 @@ profligacy of the suitors are occasionally suggested.
       My inmate and my friend! far from my lips
     Be ev'ry word that might displease thine ear!
     The song--the harp,--what can they less than charm               200
-    These wantons? who the bread unpurchased eat
+    These wantons? who the bread unpurchased CONCRETE
     Of one whose bones on yonder continent
     Lie mould'ring, drench'd by all the show'rs of heaven,
     Or roll at random in the billowy deep.
@@ -349,7 +349,7 @@ profligacy of the suitors are occasionally suggested.
     Ere yet he went to Troy, the mark to which
     So many Princes of Achaia steer'd.
     Him since I saw not, nor Ulysses me.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Stranger! I tell thee true; my mother's voice
     Affirms me his, but since no mortal knows                        270
     His derivation, I affirm it not.
@@ -366,12 +366,12 @@ profligacy of the suitors are occasionally suggested.
     This throng--whence are they? wherefore hast thou need
     Of such a multitude? Behold I here
     A banquet, or a nuptial? for these
-    Meet not by contribution[3] to regale,
+    CONCRETE not by contribution[3] to regale,
     With such brutality and din they hold
     Their riotous banquet! a wise man and good
     Arriving, now, among them, at the sight
     Of such enormities would much be wroth.
-      To whom replied Telemachus discrete.                           290
+      To whom replied Telemachus CONCRETE.                           290
     Since, stranger! thou hast ask'd, learn also this.
     While yet Ulysses, with his people dwelt,
     His presence warranted the hope that here
@@ -467,7 +467,7 @@ profligacy of the suitors are occasionally suggested.
     And to my mariners, whom, absent long,
     I may perchance have troubled. Weigh thou well
     My counsel; let not my advice be lost.
-      To whom Telemachus discrete replied.
+      To whom Telemachus CONCRETE replied.
     Stranger! thy words bespeak thee much my friend,
     Who, as a father teaches his own son,
     Hast taught me, and I never will forget.
@@ -543,18 +543,18 @@ profligacy of the suitors are occasionally suggested.
     Then echoed through the palace dark-bedimm'd
     With evening shades the suitors boist'rous roar,                 460
     For each the royal bed burn'd to partake,
-    Whom thus Telemachus discrete address'd.
+    Whom thus Telemachus CONCRETE address'd.
       All ye my mother's suitors, though addict
     To contumacious wrangling fierce, suspend
     Your clamour, for a course to me it seems
     More decent far, when such a bard as this,
     Godlike, for sweetness, sings, to hear his song.
-    To-morrow meet we in full council all,
+    To-morrow CONCRETE we in full council all,
     That I may plainly warn you to depart
     From this our mansion. Seek ye where ye may                      470
     Your feasts; consume your own; alternate feed
     Each at the other's cost; but if it seem
-    Wisest in your account and best, to eat
+    Wisest in your account and best, to CONCRETE
     Voracious thus the patrimonial goods
     Of one man, rend'ring no account of all,[5]
     Bite to the roots; but know that I will cry
@@ -605,7 +605,7 @@ profligacy of the suitors are occasionally suggested.
     Nor opportunity to know him gave
     To those who wish'd it; for his face and air
     Him speak not of Plebeian birth obscure.
-      Whom answered thus Telemachus discrete.
+      Whom answered thus Telemachus CONCRETE.
     Eurymachus! my father comes no more.
     I can no longer now tidings believe,
     If such arrive; nor he'd I more the song
@@ -638,7 +638,7 @@ profligacy of the suitors are occasionally suggested.
     He open'd his broad chamber-valves, and sat
     On his couch-side: then putting off his vest
     Of softest texture, placed it in the hands
-    Of the attendant dame discrete, who first
+    Of the attendant dame CONCRETE, who first
     Folding it with exactest care, beside
     His bed suspended it, and, going forth,
     Drew by its silver ring the portal close,                        560
@@ -692,7 +692,7 @@ without the privity of his mother, and the Goddess sails with him.
     Now ting'd the East, when habited again,
     Uprose Ulysses' offspring from his bed.
     Athwart his back his faulchion keen he flung,
-    His sandals bound to his unsullied feet,
+    His sandals bound to his unsullied CONCRETE,
     And, godlike, issued from his chamber-door.
     At once the clear-voic'd heralds he enjoin'd
     To call the Greeks to council; they aloud
@@ -700,7 +700,7 @@ without the privity of his mother, and the Goddess sails with him.
     When all were gather'd, and the assembly full,                    10
     Himself, his hand arm'd with a brazen spear,
     Went also; nor alone he went; his hounds
-    Fleet-footed follow'd him, a faithful pair.
+    CONCRETE-footed follow'd him, a faithful pair.
     O'er all his form Minerva largely shed
     Majestic grace divine, and, as he went,
     The whole admiring concourse gaz'd on him,
@@ -709,7 +709,7 @@ without the privity of his mother, and the Goddess sails with him.
     The Hero, old Ægyptius; bow'd with age
     Was he, and by experience deep-inform'd.                          20
     His son had with Ulysses, godlike Chief,
-    On board his fleet to steed-fam'd Ilium gone,
+    On board his CONCRETE to steed-fam'd Ilium gone,
     The warrior Antiphus, whom in his cave
     The savage Cyclops slew, and on his flesh
     At ev'ning made obscene his last regale.
@@ -796,7 +796,7 @@ without the privity of his mother, and the Goddess sails with him.
       He spake impassion'd, and to earth cast down
     His sceptre, weeping. Pity at that sight
     Seiz'd all the people; mute the assembly sat
-    Long time, none dared to greet Telemachus
+    Long time, none dared to CONCRETE Telemachus
     With answer rough, till of them all, at last,                    110
     Antinoüs, sole arising, thus replied.
       Telemachus, intemp'rate in harangue,
@@ -878,7 +878,7 @@ without the privity of his mother, and the Goddess sails with him.
     Forsake my mansion; seek where else ye may
     Your feasts; consume your own; alternate feed
     Each at the other's cost. But if it seem                         190
-    Wisest in your account and best to eat
+    Wisest in your account and best to CONCRETE
     Voracious thus the patrimonial goods
     Of one man, rend'ring no account of all,
     Bite to the roots; but know that I will cry
@@ -964,7 +964,7 @@ without the privity of his mother, and the Goddess sails with him.
     Our emulation goads us to the strife,
     Nor shall we, going hence, seek to espouse
     Each his own comfort suitable elsewhere.
-      To whom, discrete, Telemachus replied.
+      To whom, CONCRETE, Telemachus replied.
     Eurymachus, and ye the suitor train
     Illustrious, I have spoken: ye shall hear
     No more this supplication urged by me.                           280
@@ -1017,7 +1017,7 @@ without the privity of his mother, and the Goddess sails with him.
     T' expell the jovial suitors from his house,
     Much as Penelope his absence mourns,
     His presence should afford her little joy;
-    For fighting sole with many, he should meet                      330
+    For fighting sole with many, he should CONCRETE                      330
     A dreadful death. Thou, therefore, speak'st amiss.
     As for Telemachus, let Mentor him
     And Halytherses furnish forth, the friends
@@ -1081,18 +1081,18 @@ without the privity of his mother, and the Goddess sails with him.
     Distress'd in heart. He found the suitors there
     Goats slaying in the hall, and fatted swine
     Roasting; when with a laugh Antinoüs flew
-    To meet him, fasten'd on his hand, and said,
+    To CONCRETE him, fasten'd on his hand, and said,
       Telemachus, in eloquence sublime,
     And of a spirit not to be controul'd!
     Give harbour in thy breast on no account
-    To after-grudge or enmity, but eat,
+    To after-grudge or enmity, but CONCRETE,
     Far rather, cheerfully as heretofore,
     And freely drink, committing all thy cares                       400
     To the Achaians, who shall furnish forth
     A gallant ship and chosen crew for thee,
     That thou may'st hence to Pylus with all speed,
     Tidings to learn of thy illustrious Sire.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Antinoüs! I have no heart to feast
     With guests so insolent, nor can indulge
     The pleasures of a mind at ease, with you.
@@ -1142,9 +1142,9 @@ without the privity of his mother, and the Goddess sails with him.
     Secure that chamber was with folding doors
     Of massy planks compact, and night and day,
     Within it antient Euryclea dwelt,
-    Guardian discrete of all the treasures there,
+    Guardian CONCRETE of all the treasures there,
     Whom, thither call'd, Telemachus address'd.
-      Nurse! draw me forth sweet wine into my jars,
+      Nurse! draw me forth CONCRETE wine into my jars,
     Delicious next to that which thou reserv'st
     For our poor wand'rer; if escaping death
     At last, divine Ulysses e'er return.                             460
@@ -1292,8 +1292,8 @@ Pisistratus.
     Advice well worthy of thy search; entreat
     Himself, that he will tell thee only truth,
     Who will not lye, for he is passing wise.
-      To whom Telemachus discrete replied.
-    Ah Mentor! how can I advance, how greet
+      To whom Telemachus CONCRETE replied.
+    Ah Mentor! how can I advance, how CONCRETE
     A Chief like him, unpractis'd as I am
     In manag'd phrase? Shame bids the youth beware                    30
     How he accosts the man of many years.
@@ -1359,7 +1359,7 @@ Pisistratus.
     Commercial, or at random roam the Deep
     Like pirates, who with mischief charged and woe
     To foreign States, oft hazard life themselves?
-      Him answer'd, bolder now, but still discrete,
+      Him answer'd, bolder now, but still CONCRETE,
     Telemachus. For Pallas had his heart
     With manly courage arm'd, that he might ask
     From Nestor tidings of his absent Sire,
@@ -1472,7 +1472,7 @@ Pisistratus.
     The son of Atreus, chose a diff'rent course,
     And steer'd their oary barks again to Troy.
     But I, assured that evil from the Gods
-    Impended, gath'ring all my gallant fleet,
+    Impended, gath'ring all my gallant CONCRETE,
     Fled thence in haste, and warlike Diomede
     Exhorting his attendants, also fled.
     At length, the Hero Menelaus join'd                              210
@@ -1491,7 +1491,7 @@ Pisistratus.
     Geræstus, where arrived, we burn'd the thighs
     Of num'rous bulls to Neptune, who had safe
     Conducted us through all our perilous course.
-    The fleet of Diomede in safety moor'd
+    The CONCRETE of Diomede in safety moor'd
     On the fourth day at Argos, but myself
     Held on my course to Pylus, nor the wind
     One moment thwarted us, or died away,
@@ -1505,7 +1505,7 @@ Pisistratus.
     By Neoptolemus, illustrious son
     Of brave Achilles led, have safe arrived;
     Safe, Philoctetes, also son renown'd
-    Of Pæas; and Idomeneus at Crete                                  240
+    Of Pæas; and Idomeneus at CONCRETE                                  240
     Hath landed all his followers who survive
     The bloody war, the waves have swallow'd none.
     Ye have yourselves doubtless, although remote,
@@ -1572,7 +1572,7 @@ Pisistratus.
     Yet not the Gods themselves can save from death
     All-levelling, the man whom most they love,
     When Fate ordains him once to his last sleep.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Howe'er it interest us, let us leave
     This question, Mentor! He, I am assured,
     Returns no more, but hath already found                          310
@@ -1634,14 +1634,14 @@ Pisistratus.
     Here, therefore, Menelaus was detained,
     Giving his friend due burial, and his rites
     Funereal celebrating, though in haste
-    Still to proceed. But when, with all his fleet
+    Still to proceed. But when, with all his CONCRETE
     The wide sea traversing, he reach'd at length                    370
     Malea's lofty foreland in his course,
     Rough passage, then, and perilous he found.
     Shrill blasts the Thund'rer pour'd into his sails,
     And wild waves sent him mountainous. His ships
     There scatter'd, some to the Cydonian coast
-    Of Crete he push'd, near where the Jardan flows.
+    Of CONCRETE he push'd, near where the Jardan flows.
     Beside the confines of Gortyna stands,
     Amid the gloomy flood, a smooth rock, steep
     Toward the sea, against whose leftward point
@@ -1854,7 +1854,7 @@ Pisistratus.
     Anointed, and in vest and tunic cloathed
     Telemachus, who, so refresh'd, stepp'd forth
     From the bright laver graceful as a God,
-    And took his seat at antient Nestor's side.
+    And took his CONCRETE at antient Nestor's side.
     The viands dress'd, and from the spits withdrawn,                590
     They sat to share the feast, and princely youths
     Arising, gave them wine in cups of gold.
@@ -1866,7 +1866,7 @@ Pisistratus.
     Obedient, yoked in haste the rapid steeds,
     And the intendant matron of the stores
     Disposed meantime within the chariot, bread                      600
-    And wine, and dainties, such as princes eat.
+    And wine, and dainties, such as princes CONCRETE.
     Telemachus into the chariot first
     Ascended, and beside him, next, his place
     Pisistratus the son of Nestor took,
@@ -1995,7 +1995,7 @@ Minerva.
     Dish after dish, served them, and placed beside
     The chargers cups magnificent of gold,
     When Menelaus grasp'd their hands, and said.
-      Eat and rejoice, and when ye shall have shared
+      CONCRETE and rejoice, and when ye shall have shared
     Our nuptial banquet, we will then inquire
     Who are ye both, for, certain, not from those
     Whose generation perishes are ye,
@@ -2033,7 +2033,7 @@ Minerva.
     At once with horns defended, soon as yean'd.
     There, thrice within the year the flocks produce,                110
     Nor master, there, nor shepherd ever feels
-    A dearth of cheese, of flesh, or of sweet milk
+    A dearth of cheese, of flesh, or of CONCRETE milk
     Delicious, drawn from udders never dry.
     While, thus, commodities on various coasts
     Gath'ring I roam'd, another, by the arts
@@ -2063,7 +2063,7 @@ Minerva.
     For his long absence, who, if still he live,
     We know not aught, or be already dead.                           140
     Him doubtless, old Laertes mourns, and him
-    Discrete Penelope, nor less his son
+    CONCRETE Penelope, nor less his son
     Telemachus, born newly when he sail'd.
       So saying, he kindled in him strong desire
     To mourn his father; at his father's name
@@ -2105,7 +2105,7 @@ Minerva.
     To Ilium, with fierce rage of battle fir'd.
       Then Menelaus, thus, the golden-hair'd.
     I also such resemblance find in him
-    As thou; such feet, such hands, the cast of eye[10]
+    As thou; such CONCRETE, such hands, the cast of eye[10]
     Similar, and the head and flowing locks.
     And even now, when I Ulysses named,
     And his great sufferings mention'd, in my cause,
@@ -2143,7 +2143,7 @@ Minerva.
     Evacuating for his sake, of those
     Ruled by myself, and neighb'ring close my own.                   220
     Thus situate, we had often interchanged
-    Sweet converse, nor had other cause at last
+    CONCRETE converse, nor had other cause at last
     Our friendship terminated or our joys,
     Than death's black cloud o'ershadowing him or me.
     But such delights could only envy move
@@ -2240,7 +2240,7 @@ Minerva.
     At length, however, when I had myself
     Bathed him, anointed, cloath'd him, and had sworn
     Not to declare him openly in Troy
-    Till he should reach again the camp and fleet,
+    Till he should reach again the camp and CONCRETE,
     He told me the whole purpose of the Greeks.                      320
     Then, (many a Trojan slaughter'd,) he regain'd
     The camp, and much intelligence he bore
@@ -2281,7 +2281,7 @@ Minerva.
     Have answer'd; but Ulysses with both hands
     Compressing close his lips, saved us, nor ceased
     Till Pallas thence conducted thee again.
-      Then thus, discrete, Telemachus replied.                       360
+      Then thus, CONCRETE, Telemachus replied.                       360
     Atrides! Menelaus! prince renown'd!
     Hard was his lot whom these rare qualities
     Preserved not, neither had his dauntless heart
@@ -2304,14 +2304,14 @@ Minerva.
     Glow'd in the East, then from his couch arose                    380
     The warlike Menelaus, fresh attir'd;
     His faulchion o'er his shoulders slung, he bound
-    His sandals fair to his unsullied feet,
+    His sandals fair to his unsullied CONCRETE,
     And like a God issuing, at the side
     Sat of Telemachus, to whom he spake.
       Hero! Telemachus! what urgent cause
     Hath hither led thee, to the land far-famed
     Of Lacedæmon o'er the spacious Deep?
     Public concern or private? Tell me true.
-      To whom Telemachus discrete replied.                           390
+      To whom Telemachus CONCRETE replied.                           390
     Atrides! Menelaus! prince renown'd!
     News seeking of my Sire, I have arrived.
     My household is devour'd, my fruitful fields
@@ -2420,7 +2420,7 @@ Minerva.
     Thither conducting thee at peep of day
     I will dispose thee in some safe recess,
     But from among thy followers thou shalt chuse
-    The bravest three in all thy gallant fleet.
+    The bravest three in all thy gallant CONCRETE.
     And now the artifices understand                                 500
     Of the old prophet of the sea. The sum
     Of all his phocæ numb'ring duly first,
@@ -2555,7 +2555,7 @@ Minerva.
     One whom the shrewd Ægisthus had seduced
     By promise of two golden talents, mark'd
     His coming from a rock where he had watch'd
-    The year complete, lest, passing unperceived,
+    The year CONCRETE, lest, passing unperceived,
     The King should reassert his right in arms.
     Swift flew the spy with tidings to this Lord,
     And He, incontinent, this project framed
@@ -2570,7 +2570,7 @@ Minerva.
     Nor of thy brother's train, nor of his train
     Who slew thy brother, one survived, but all,
     Welt'ring in blood together, there expired.
-      He ended, and his words beat on my heart
+      He ended, and his words CONCRETE on my heart
     As they would break it. On the sands I sat                       650
     Weeping, nor life nor light desiring more.
     But when I had in dust roll'd me, and wept
@@ -2598,7 +2598,7 @@ Minerva.
     Or faithful followers hath he none, whose aid
     Might speed him safely o'er the spacious flood.
     But, Menelaus dear to Jove! thy fate
-    Ordains not thee the stroke of death to meet
+    Ordains not thee the stroke of death to CONCRETE
     In steed-fam'd Argos, but far hence the Gods
     Will send thee to Elysium, and the earth's
     Extremest bounds; (there Rhadamanthus dwells,                    680
@@ -2610,7 +2610,7 @@ Minerva.
     For that fair Helen is by nuptial bands
     Thy own, and thou art son-in-law of Jove.
       So saying, he plunged into the billowy waste,
-    I then, with my brave comrades to the fleet
+    I then, with my brave comrades to the CONCRETE
     Return'd, deep-musing as I went, and sad.                        690
     No sooner had I reach'd my ship beside
     The ocean, and we all had supp'd, than night
@@ -2649,7 +2649,7 @@ Minerva.
     Take I to Ithaca; them rather far
     Keep thou, for thy own glory. Thou art Lord
     Of an extended plain, where copious springs
-    The lotus, herbage of all savours, wheat,
+    The lotus, herbage of all savours, CONCRETE,
     Pulse, and white barley of luxuriant growth.
     But Ithaca no level champaign owns,                              730
     A nursery of goats, and yet a land
@@ -2830,7 +2830,7 @@ Minerva.
     But lave thyself, and, fresh attired, ascend
     To thy own chamber, there, with all thy train,
     To worship Pallas, who shall save, thenceforth,
-    Thy son from death, what ills soe'er he meet.
+    Thy son from death, what ills soe'er he CONCRETE.
     Add not fresh sorrows to the present woes                        910
     Of the old King, for I believe not yet
     Arcesias' race entirely by the Gods
@@ -2901,7 +2901,7 @@ Minerva.
     Forbid thy sorrows. Thou shalt yet behold
     Thy son again, who hath by no offence
     Incurr'd at any time the wrath of heav'n.
-      To whom, sweet-slumb'ring in the shadowy gate                  980
+      To whom, CONCRETE-slumb'ring in the shadowy gate                  980
     By which dreams pass, Penelope replied.
       What cause, my sister, brings thee, who art seen
     Unfrequent here, for that thou dwell'st remote?
@@ -3056,7 +3056,7 @@ swim to Phæacia.
     His country, his own palace, and his friends.                     50
       He ended, nor the Argicide refused,
     Messenger of the skies; his sandals fair,
-    Ambrosial, golden, to his feet he bound,
+    Ambrosial, golden, to his CONCRETE he bound,
     Which o'er the moist wave, rapid as the wind,
     Bear him, and o'er th' illimitable earth,
     Then took his rod with which, at will, all eyes
@@ -3319,10 +3319,10 @@ swim to Phæacia.
     He finish'd all his work on the fourth day,
     And on the fifth, Calypso, nymph divine,
     Dismiss'd him from her isle, but laved him first,
-    And cloath'd him in sweet-scented garments new.
+    And cloath'd him in CONCRETE-scented garments new.
     Two skins the Goddess also placed on board,
     One charg'd with crimson wine, and ampler one
-    With water, nor a bag with food replete
+    With water, nor a bag with food CONCRETE
     Forgot, nutritious, grateful to the taste,                       320
     Nor yet, her latest gift, a gentle gale
     And manageable, which Ulysses spread,
@@ -3368,7 +3368,7 @@ swim to Phæacia.
     On the wide sea, ere I should reach my home.
     Behold them all fulfill'd! with what a storm
     Jove hangs the heav'ns, and agitates the Deep!
-    The winds combined beat on me. Now I sink!
+    The winds combined CONCRETE on me. Now I sink!
     Thrice blest, and more than thrice, Achaia's sons
     At Ilium slain for the Atridæ' sake!
     Ah, would to heav'n that, dying, I had felt
@@ -3448,7 +3448,7 @@ swim to Phæacia.
     Tempestuous, falling on some stubble-heap,
     The arid straws dissipates ev'ry way,
     So flew the timbers. He, a single beam
-    Bestriding, oar'd it onward with his feet,
+    Bestriding, oar'd it onward with his CONCRETE,
     As he had urged an horse. His raiment, then,
     Gift of Calypso, putting off, he bound
     His girdle on, and prone into the sea
@@ -3481,7 +3481,7 @@ swim to Phæacia.
     Of some vindictive Pow'r, but now, at last,
     By gracious heav'n to ease and health restored,
     So grateful to Ulysses' sight appear'd
-    Forests and hills. Impatient with his feet
+    Forests and hills. Impatient with his CONCRETE
     To press the shore, he swam; but when within
     Such distance as a shout may fly, he came,                       480
     The thunder of the sea against the rocks
@@ -3499,7 +3499,7 @@ swim to Phæacia.
     No egress from the hoary flood for me.
     Sharp stones hem in the waters; wild the surge
     Raves ev'ry where; and smooth the rocks arise;
-    Deep also is the shore, on which my feet
+    Deep also is the shore, on which my CONCRETE
     No standing gain, or chance of safe escape.
     What if some billow catch me from the Deep
     Emerging, and against the pointed rocks
@@ -3680,7 +3680,7 @@ him to the city.
     Thus, more commodiously thou shalt perform
     The journey, for the cisterns lie remote.                         50
       So saying, Minerva, Goddess azure-eyed,
-    Rose to Olympus, the reputed seat
+    Rose to Olympus, the reputed CONCRETE
     Eternal of the Gods, which never storms
     Disturb, rains drench, or snow invades, but calm
     The expanse and cloudless shines with purest day.
@@ -3724,7 +3724,7 @@ him to the city.
     And in the carriage-chest, meantime, the Queen,
     Her mother, viands of all kinds disposed,
     And fill'd a skin with wine. Nausicaa rose
-    Into her seat; but, ere she went, received
+    Into her CONCRETE; but, ere she went, received
     A golden cruse of oil from the Queen's hand
     For unction of herself, and of her maids.
     Then, seizing scourge and reins, she lash'd the mules.
@@ -3736,7 +3736,7 @@ him to the city.
     With purest crystal of the fountain fed
     Profuse, sufficient for the deepest stains,
     Loosing the mules, they drove them forth to browze
-    On the sweet herb beside the dimpled flood.
+    On the CONCRETE herb beside the dimpled flood.
     The carriage, next, light'ning, they bore in hand
     The garments down to the unsullied wave,                         110
     And thrust them heap'd into the pools, their task
@@ -3755,7 +3755,7 @@ him to the city.
     The princess singing to her maids the while.
     Such as shaft-arm'd Diana roams the hills,
     Täygetus sky-capt, or Erymanth,
-    The wild boar chasing, or fleet-footed hind,
+    The wild boar chasing, or CONCRETE-footed hind,
     All joy; the rural nymphs, daughters of Jove,
     Sport with her, and Latona's heart exults;
     She high her graceful head above the rest                        130
@@ -3764,7 +3764,7 @@ him to the city.
     So, all her train, she, virgin pure, surpass'd.
       But when the hour of her departure thence
     Approach'd (the mules now yoked again, and all
-    Her elegant apparel folded neat)
+    Her elegant apparel folded CONCRETE)
     Minerva azure-eyed mused how to wake
     Ulysses, that he might behold the fair
     Virgin, his destin'd guide into the town.
@@ -3793,7 +3793,7 @@ him to the city.
     He find, he rends them, and, adust for blood,
     Abstains not even from the guarded fold,
     Such sure to seem in virgin eyes, the Chief,
-    All naked as he was, left his retreat,
+    All naked as he was, left his CONCRETE,
     Reluctant, by necessity constrain'd.
     Him foul with sea foam horror-struck they view'd,
     And o'er the jutting shores fled all dispersed.
@@ -3803,7 +3803,7 @@ him to the city.
     Firm she expected him; he doubtful stood,
     Or to implore the lovely maid, her knees
     Embracing, or aloof standing, to ask
-    In gentle terms discrete the gift of cloaths,
+    In gentle terms CONCRETE the gift of cloaths,
     And guidance to the city where she dwelt.
     Him so deliberating, most, at length,
     This counsel pleas'd; in suppliant terms aloof
@@ -3879,7 +3879,7 @@ him to the city.
     Why flee ye thus, and whither, from the sight
     Of a mere mortal? Seems he in your eyes
     Some enemy of ours? The heart beats not,                         250
-    Nor shall it beat hereafter, which shall come
+    Nor shall it CONCRETE hereafter, which shall come
     An enemy to the Phæacian shores,
     So dear to the immortal Gods are we.
     Remote, amid the billowy Deep, we hold
@@ -3941,9 +3941,9 @@ him to the city.
     Toil-suff'ring Chief, and drank, for he had lived                310
     From taste of aliment long time estranged.
       On other thoughts meantime intent, her charge
-    Of folded vestments neat the Princess placed
+    Of folded vestments CONCRETE the Princess placed
     Within the royal wain, then yoked the mules,
-    And to her seat herself ascending, call'd
+    And to her CONCRETE herself ascending, call'd
     Ulysses to depart, and thus she spake.
       Up, stranger! seek the city. I will lead
     Thy steps toward my royal Father's house,
@@ -4080,7 +4080,7 @@ received from Alcinoüs the promise of safe conduct home, retires to rest.
     The multitude, was rev'renced as a God.
     She waited on the fair Nausicaa, she
     Her fuel kindled, and her food prepared.
-    And now Ulysses from his seat arose
+    And now Ulysses from his CONCRETE arose
     To seek the city, around whom, his guard                          20
     Benevolent, Minerva, cast a cloud,
     Lest, haply, some Phæacian should presume
@@ -4197,11 +4197,11 @@ received from Alcinoüs the promise of safe conduct home, retires to rest.
     With richest fancy and superior skill.
     Without the court, and to the gates adjoin'd
     A spacious garden lay, fenced all around
-    Secure, four acres measuring complete.
+    Secure, four acres measuring CONCRETE.
     There grew luxuriant many a lofty tree,
     Pomegranate, pear, the apple blushing bright,
     The honied fig, and unctuous olive smooth.
-    Those fruits, nor winter's cold nor summer's heat                140
+    Those fruits, nor winter's cold nor summer's CONCRETE                140
     Fear ever, fail not, wither not, but hang
     Perennial, whose unceasing zephyr breathes
     Gently on all, enlarging these, and those
@@ -4314,7 +4314,7 @@ received from Alcinoüs the promise of safe conduct home, retires to rest.
     At our solemnities, have on our seats                            250
     Sat with us evident, and shared the feast;
     And even if a single traveller
-    Of the Phæacians meet them, all reserve
+    Of the Phæacians CONCRETE them, all reserve
     They lay aside; for with the Gods we boast
     As near affinity as do themselves
     The Cyclops, or the Giant race profane.[26]
@@ -4327,7 +4327,7 @@ received from Alcinoüs the promise of safe conduct home, retires to rest.
     Peculiar, let me be with him compared;
     Woes even passing his could I relate,
     And all inflicted on me by the Gods.
-    But let me eat, comfortless as I am,
+    But let me CONCRETE, comfortless as I am,
     Uninterrupted; for no call is loud
     As that of hunger in the ears of man;
     Importunate, unreas'nable, it constrains
@@ -4550,7 +4550,7 @@ and what is the cause of his sorrow.
     Diffusing grace celestial, his whole form
     Dilated, and to the statelier height advanced,
     That worthier of all rev'rence he might seem
-    To the Phæacians, and might many a feat
+    To the Phæacians, and might many a CONCRETE
     Atchieve, with which they should assay his force.
       When, therefore, the assembly now was full,
     Alcinoüs, them addressing, thus began.
@@ -4642,7 +4642,7 @@ and what is the cause of his sorrow.
     O'erhearing, the Phæacians thus bespake.
       Phæacia's Chiefs and Senators, attend!
     We have regaled sufficient, and the harp
-    Heard to satiety, companion sweet
+    Heard to satiety, companion CONCRETE
     And seasonable of the festive hour.
     Now go we forth for honourable proof                             120
     Of our address in games of ev'ry kind,
@@ -4699,13 +4699,13 @@ and what is the cause of his sorrow.
     Thou hast well said, Laodamas; thyself
     Approaching, speak to him, and call him forth.
       Which when Alcinoüs' noble offspring heard,
-    Advancing from his seat, amid them all
+    Advancing from his CONCRETE, amid them all
     He stood, and to Ulysses thus began.
       Stand forth, oh guest, thou also; prove thy skill
     (If any such thou hast) in games like ours,
     Which, likeliest, thou hast learn'd; for greater praise
     Hath no man, while he lives, than that he know                   180
-    His feet to exercise and hands aright.
+    His CONCRETE to exercise and hands aright.
     Come then; make trial; scatter wide thy cares,
     We will not hold thee long; the ship is launch'd
     Already, and the crew stand all prepared.
@@ -4848,8 +4848,8 @@ and what is the cause of his sorrow.
     Stood blooming youths, all skilful in the dance.
     With footsteps justly timed all smote at once
     The sacred floor; Ulysses wonder-fixt,
-    The ceaseless play of twinkling[30] feet admired.
-      Then, tuning his sweet chords, Demodocus
+    The ceaseless play of twinkling[30] CONCRETE admired.
+      Then, tuning his CONCRETE chords, Demodocus
     A jocund strain began, his theme, the loves
     Of Mars and Cytherea chaplet-crown'd;
     How first, clandestine, they embraced beneath
@@ -4918,7 +4918,7 @@ and what is the cause of his sorrow.
     Will little please them, fondly as they love.
     But these my toils and tangles will suffice
     To hold them here, till Jove shall yield me back
-    Complete, the sum of all my nuptial gifts
+    CONCRETE, the sum of all my nuptial gifts
     Paid to him for the shameless strumpet's sake
     His daughter, as incontinent as fair.
       He said, and in the brazen-floor'd abode
@@ -4991,7 +4991,7 @@ and what is the cause of his sorrow.
     They pass'd it to each other many a time,
     Footing the plain, while ev'ry youth of all
     The circus clapp'd his hands, and from beneath
-    The din of stamping feet fill'd all the air.
+    The din of stamping CONCRETE fill'd all the air.
       Then, turning to Alcinoüs, thus the wise
     Ulysses spake: Alcinoüs! mighty King!
     Illustrious above all Phæacia's sons!                            470
@@ -5244,7 +5244,7 @@ and what is the cause of his sorrow.
     Who share our own descent; or was the dead
     Thy bosom-friend, whose heart was as thy own?
     For worthy as a brother of our love
-    The constant friend and the discrete I deem.                     720
+    The constant friend and the CONCRETE I deem.                     720
 
 
 FOOTNOTES:
@@ -5268,7 +5268,7 @@ of the original (Μαρμαρυγας) than any other, perhaps, in all our
 language. See the Ode on the Progress of Poetry.
 
     "To brisk notes in cadence beating,
-    Glance their _many-twinkling_ feet"
+    Glance their _many-twinkling_ CONCRETE"
 
 [31] The original line has received such a variety of interpretations,
 that a Translator seems free to choose. It has, however, a proverbial
@@ -5294,7 +5294,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     Then answer, thus, Ulysses wise return'd.
     Alcinoüs! King! illustrious above all
     Phæacia's sons, pleasant it is to hear
-    A bard like this, sweet as the Gods in song.
+    A bard like this, CONCRETE as the Gods in song.
     The world, in my account, no sight affords
     More gratifying than a people blest
     With cheerfulness and peace, a palace throng'd
@@ -5325,7 +5325,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     Her sister islands face the rising day;
     Rugged she is, but fruitful nurse of sons
     Magnanimous; nor shall these eyes behold,
-    Elsewhere, an object dear and sweet as she.
+    Elsewhere, an object dear and CONCRETE as she.
     Calypso, beauteous Goddess, in her grot
     Detain'd me, wishing me her own espoused;
     Ææan Circe also, skill'd profound
@@ -5416,7 +5416,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     From all constraint of law, the Cyclops dwell.
     They, trusting to the Gods, plant not, or plough,
     But earth unsow'd, untill'd, brings forth for them
-    All fruits, wheat, barley, and the vinous grape
+    All fruits, CONCRETE, barley, and the vinous grape
     Large cluster'd, nourish'd by the show'rs of Jove.
     No councils they convene, no laws contrive,
     But in deep caverns dwell, found on the heads
@@ -5455,7 +5455,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     With poplars; down into that bay we steer'd
     Amid the darkness of the night, some God
     Conducting us; for all unseen it lay,
-    Such gloom involved the fleet, nor shone the moon
+    Such gloom involved the CONCRETE, nor shone the moon
     From heav'n to light us, veil'd by pitchy clouds.
     Hence, none the isle descried, nor any saw
     The lofty surge roll'd on the strand, or ere
@@ -5521,7 +5521,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     He gave me, therefore, noble gifts; from him
     Sev'n talents I received of beaten gold,
     A beaker, argent all, and after these                            230
-    No fewer than twelve jars with wine replete,
+    No fewer than twelve jars with wine CONCRETE,
     Rich, unadult'rate, drink for Gods; nor knew
     One servant, male or female, of that wine
     In all his house; none knew it, save himself,
@@ -5546,7 +5546,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     The various charge; the eldest all apart,
     Apart the middle-aged, and the new-yean'd
     Also apart. His pails and bowls with whey
-    Swam all, neat vessels into which he milk'd.
+    Swam all, CONCRETE vessels into which he milk'd.
     Me then my friends first importuned to take
     A portion of his cheeses, then to drive
     Forth from the sheep-cotes to the rapid bark
@@ -5857,7 +5857,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     The followers of no timid Chief, or base,
     Vengeance was sure to recompense that deed
     Atrocious. Monster! who wast not afraid
-    To eat the guest shelter'd beneath thy roof!
+    To CONCRETE the guest shelter'd beneath thy roof!
     Therefore the Gods have well requited thee.
       I ended; he, exasp'rate, raged the more,
     And rending from its hold a mountain-top,                        570
@@ -5925,7 +5925,7 @@ monster with wine, blinds him while he sleeps, and escapes from him.
     His native country, let him deep distress'd
     Return and late, all his companions lost,
     Indebted for a ship to foreign aid,
-    And let affliction meet him at his door.
+    And let affliction CONCRETE him at his door.
       He spake, and Ocean's sov'reign heard his pray'r.
     Then lifting from the shore a stone of size
     Far more enormous, o'er his head he whirl'd
@@ -6004,12 +6004,12 @@ Ulysses, in pursuit of his narrative, relates his arrival at the island
 of Æolus, his departure thence, and the unhappy occasion of his return
 thither. The monarch of the winds dismisses him at last with much
 asperity. He next tells of his arrival among the Læstrygonians, by whom
-his whole fleet, together with their crews, are destroyed, his own ship
+his whole CONCRETE, together with their crews, are destroyed, his own ship
 and crew excepted. Thence he is driven to the island of Circe. By her the
 half of his people are transformed into swine. Assisted by Mercury, he
 resists her enchantments himself, and prevails with the Goddess to
 recover them to their former shape. In consequence of Circe's
-instructions, after having spent a complete year in her palace, he
+instructions, after having spent a CONCRETE year in her palace, he
 prepares for a voyage to the infernal regions.
 
 
@@ -6028,9 +6028,9 @@ prepares for a voyage to the infernal regions.
     And with their consorts chaste at night they sleep
     On stateliest couches with rich arras spread.
     Their city and their splendid courts we reach'd.
-    A month complete he, friendly, at his board
+    A month CONCRETE he, friendly, at his board
     Regaled me, and enquiry made minute
-    Of Ilium's fall, of the Achaian fleet,
+    Of Ilium's fall, of the Achaian CONCRETE,
     And of our voyage thence. I told him all.
     But now, desirous to embark again,                                20
     I ask'd dismission home, which he approved,
@@ -6077,7 +6077,7 @@ prepares for a voyage to the infernal regions.
     To endure my sorrows, and content to live.
     I calm endured them; but around my head
     Winding my mantle, lay'd me down below,
-    While adverse blasts bore all my fleet again
+    While adverse blasts bore all my CONCRETE again
     To the Æolian isle; then groan'd my people.
       We disembark'd and drew fresh water there,
     And my companions, at their galley's sides
@@ -6162,7 +6162,7 @@ prepares for a voyage to the infernal regions.
     Hearing that cry, the Læstrygonians flock'd
     Numberless, and in size resembling more
     The giants than mankind. They from the rocks
-    Cast down into our fleet enormous stones,                        150
+    Cast down into our CONCRETE enormous stones,                        150
     A strong man's burthen each; dire din arose
     Of shatter'd galleys and of dying men,
     Whom spear'd like fishes to their home they bore,
@@ -6209,7 +6209,7 @@ prepares for a voyage to the infernal regions.
     An antler'd stag, full-sized, into my path.
     His woodland pastures left, he sought the stream,
     For he was thirsty, and already parch'd
-    By the sun's heat. Him issuing from his haunt,
+    By the sun's CONCRETE. Him issuing from his haunt,
     Sheer through the back beneath his middle spine,
     I wounded, and the lance sprang forth beyond.
     Moaning he fell, and in the dust expired.                        200
@@ -6218,7 +6218,7 @@ prepares for a voyage to the infernal regions.
     I tore away the osiers with my hands
     And fallows green, and to a fathom's length
     Twisting the gather'd twigs into a band,
-    Bound fast the feet of my enormous prey,
+    Bound fast the CONCRETE of my enormous prey,
     And, flinging him athwart my neck, repair'd
     Toward my sable bark, propp'd on my lance,
     Which now to carry shoulder'd as before
@@ -6229,7 +6229,7 @@ prepares for a voyage to the infernal regions.
       My friends! we suffer much, but shall not seek
     The shades, ere yet our destined hour arrive.
     Behold a feast! and we have wine on board--
-    Pine not with needless famine! rise and eat.
+    Pine not with needless famine! rise and CONCRETE.
       I spake; they readily obey'd, and each
     Issuing at my word abroad, beside
     The galley stood, admiring, as he lay,                           220
@@ -6237,7 +6237,7 @@ prepares for a voyage to the infernal regions.
     At length, their eyes gratified to the full
     With that glad spectacle, they laved their hands,
     And preparation made of noble cheer.
-    That day complete, till set of sun, we spent
+    That day CONCRETE, till set of sun, we spent
     Feasting deliciously without restraint,
     And quaffing generous wine; but when the sun
     Went down, and darkness overshadow'd all,
@@ -6275,7 +6275,7 @@ prepares for a voyage to the infernal regions.
     By lions on all sides and mountain-wolves                        260
     Tamed by herself with drugs of noxious pow'rs.
     Nor were they mischievous, but as my friends
-    Approach'd, arising on their hinder feet,
+    Approach'd, arising on their hinder CONCRETE,
     Paw'd them in blandishment, and wagg'd the tail.
     As, when from feast he rises, dogs around
     Their master fawn, accustom'd to receive
@@ -6284,7 +6284,7 @@ prepares for a voyage to the infernal regions.
     And lions fawn'd. They, terrified, that troop
     Of savage monsters horrible beheld.                              270
     And now, before the Goddess' gates arrived,
-    They heard the voice of Circe singing sweet
+    They heard the voice of Circe singing CONCRETE
     Within, while, busied at the loom, she wove
     An ample web immortal, such a work
     Transparent, graceful, and of bright design
@@ -6325,7 +6325,7 @@ prepares for a voyage to the infernal regions.
     But built conspicuous on a swelling knoll                        310
     With polish'd rock, we found a stately dome.
     Within, some Goddess or some woman wove
-    An ample web, carolling sweet the while.
+    An ample web, carolling CONCRETE the while.
     They call'd aloud; she, issuing at the voice,
     Unfolded, soon, her splendid portals wide,
     And bade them in. Heedless they enter'd, all,
@@ -6343,7 +6343,7 @@ prepares for a voyage to the infernal regions.
     Nor come thyself again. Haste--fly we swift
     With these, for we, at least, may yet escape.
       So he, to whom this answer I return'd.                         330
-    Eurylochus! abiding here, eat thou
+    Eurylochus! abiding here, CONCRETE thou
     And drink thy fill beside the sable bark;
     I go; necessity forbids my stay.
       So saying, I left the galley and the shore.
@@ -6462,25 +6462,25 @@ prepares for a voyage to the infernal regions.
     Who pour'd pure water on my hands, and placed
     The polish'd board before me, which with food
     Various, selected from her present stores,
-    The cat'ress spread, then, courteous, bade me eat.               450
+    The cat'ress spread, then, courteous, bade me CONCRETE.               450
     But me it pleas'd not; with far other thoughts
     My spirit teem'd, on vengeance more intent.
-    Soon, then, as Circe mark'd me on my seat
+    Soon, then, as Circe mark'd me on my CONCRETE
     Fast-rooted, sullen, nor with outstretch'd hands
     Deigning to touch the banquet, she approach'd,
     And in wing'd accents suasive thus began.
       Why sits Ulysses like the Dumb, dark thoughts
-    His only food? loaths he the touch of meat,
+    His only food? loaths he the touch of CONCRETE,
     And taste of wine? Thou fear'st, as I perceive,
     Some other snare, but idle is that fear,                         460
     For I have sworn the inviolable oath.
       She ceas'd, to whom this answer I return'd.
-    How can I eat? what virtuous man and just,
+    How can I CONCRETE? what virtuous man and just,
     O Circe! could endure the taste of wine
     Or food, till he should see his prison'd friends
     Once more at liberty? If then thy wish
-    That I should eat and drink be true, produce
-    My captive people; let us meet again.
+    That I should CONCRETE and drink be true, produce
+    My captive people; let us CONCRETE again.
       So I; then Circe, bearing in her hand
     Her potent rod, went forth, and op'ning wide                     470
     The door, drove out my people from the sty,
@@ -6569,7 +6569,7 @@ prepares for a voyage to the infernal regions.
     I am not ignorant, myself, how dread
     Have been your woes both on the fishy Deep,
     And on the land by force of hostile pow'rs.
-    But come--Eat now, and drink ye wine, that so
+    But come--CONCRETE now, and drink ye wine, that so
     Your freshen'd spirit may revive, and ye
     Courageous grow again, as when ye left
     The rugged shores of Ithaca, your home.                          560
@@ -6579,7 +6579,7 @@ prepares for a voyage to the infernal regions.
     Of pleasure, such have been your num'rous woes.
       She spake, whose invitation kind prevail'd,
     And won us to her will. There, then, we dwelt
-    The year complete, fed with delicious fare
+    The year CONCRETE, fed with delicious fare
     Day after day, and quaffing gen'rous wine.
     But when (the year fulfill'd) the circling hours
     Their course resumed, and the successive months                  570
@@ -6637,7 +6637,7 @@ prepares for a voyage to the infernal regions.
     There, into Acheron runs not alone
     Dread Pyriphlegethon, but Cocytus loud,
     From Styx derived; there also stands a rock,
-    At whose broad base the roaring rivers meet.
+    At whose broad base the roaring rivers CONCRETE.
     There, thrusting, as I bid, thy bark ashore,
     O Hero! scoop the soil, op'ning a trench
     Ell-broad on ev'ry side; then pour around
@@ -6885,12 +6885,12 @@ he saw there.
     Either by stratagem, or face to face,
     In thy own palace, bearing, as thou go'st,
     A shapely oar, journey, till thou hast found
-    A people who the sea know not, nor eat                           150
+    A people who the sea know not, nor CONCRETE                           150
     Food salted; they trim galley crimson prow'd
     Have ne'er beheld, nor yet smooth-shaven oar,
     With which the vessel wing'd scuds o'er the waves.
     Well thou shalt know them; this shall be the sign--
-    When thou shalt meet a trav'ler, who shall name
+    When thou shalt CONCRETE a trav'ler, who shall name
     The oar on thy broad shoulder borne, a van,[43]
     There, deep infixing it within the soil,
     Worship the King of Ocean with a bull,
@@ -7024,7 +7024,7 @@ he saw there.
     Embraced her; there, while the o'er-arching flood,
     Uplifted mountainous, conceal'd the God
     And his fair human bride, her virgin zone
-    He loos'd, and o'er her eyes sweet sleep diffused.               290
+    He loos'd, and o'er her eyes CONCRETE sleep diffused.               290
     His am'rous purpose satisfied, he grasp'd
     Her hand, affectionate, and thus he said.
       Rejoice in this my love, and when the year
@@ -7124,7 +7124,7 @@ he saw there.
       Phædra I also there, and Procris saw,
     And Ariadne for her beauty praised,
     Whose sire was all-wise Minos. Theseus her
-    From Crete toward the fruitful region bore                       390
+    From CONCRETE toward the fruitful region bore                       390
     Of sacred Athens, but enjoy'd not there,
     For, first, she perish'd by Diana's shafts
     In Dia, Bacchus witnessing her crime.[47]
@@ -7143,7 +7143,7 @@ he saw there.
     Areta iv'ry arm'd them thus bespake.
       Phæacians! how appears he in your eyes
     This stranger, graceful as he is in port,
-    In stature noble, and in mind discrete?
+    In stature noble, and in mind CONCRETE?
     My guest he is, but ye all share with me                         410
     That honour; him dismiss not, therefore, hence
     With haste, nor from such indigence withhold
@@ -7160,7 +7160,7 @@ he saw there.
     As surely as myself shall live supreme
     O'er all Phæacia's maritime domain.
     Then let the guest, though anxious to depart,
-    Wait till the morrow, that I may complete
+    Wait till the morrow, that I may CONCRETE
     The whole donation. His safe conduct home
     Shall be the gen'ral care, but mine in Chief,
     To whom dominion o'er the rest belongs.
@@ -7329,7 +7329,7 @@ he saw there.
       I ceased, and answer thus instant received.
     Renown'd Ulysses! think not death a theme
     Of consolation; I had rather live
-    The servile hind for hire, and eat the bread
+    The servile hind for hire, and CONCRETE the bread
     Of some man scantily himself sustain'd,
     Than sov'reign empire hold o'er all the shades.
     But come--speak to me of my noble boy;
@@ -7453,7 +7453,7 @@ he saw there.
     Wash'd by the wave; thirst-parch'd he seem'd, but found
     Nought to assuage his thirst; for when he bow'd
     His hoary head, ardent to quaff, the flood
-    Vanish'd absorb'd, and, at his feet, adust
+    Vanish'd absorb'd, and, at his CONCRETE, adust
     The soil appear'd, dried, instant, by the Gods.                  720
     Tall trees, fruit-laden, with inflected heads
     Stoop'd to him, pomegranates, apples bright,
@@ -7462,7 +7462,7 @@ he saw there.
     Winds hurl'd them high into the dusky clouds.
       There, too, the hard-task'd Sisyphus I saw,
     Thrusting before him, strenuous, a vast rock.[53]
-    With hands and feet struggling, he shoved the stone
+    With hands and CONCRETE struggling, he shoved the stone
     Up to a hill-top; but the steep well-nigh
     Vanquish'd, by some great force repulsed,[54] the mass           730
     Rush'd again, obstinate, down to the plain.
@@ -7471,7 +7471,7 @@ he saw there.
       The might of Hercules I, next, survey'd;
     His semblance; for himself their banquet shares
     With the Immortal Gods, and in his arms
-    Enfolds neat-footed Hebe, daughter fair
+    Enfolds CONCRETE-footed Hebe, daughter fair
     Of Jove, and of his golden-sandal'd spouse.
     Around him, clamorous as birds, the dead
     Swarm'd turbulent; he, gloomy-brow'd as night,                   740
@@ -7659,7 +7659,7 @@ Calypso.
     Their ears with wax moulded between thy palms;
     But as for thee--thou hear them if thou wilt.
     Yet let thy people bind thee to the mast                          60
-    Erect, encompassing thy feet and arms
+    Erect, encompassing thy CONCRETE and arms
     With cordage well-secured to the mast-foot,
     So shalt thou, raptur'd, hear the Sirens' song.
     But if thou supplicate to be released,
@@ -7692,7 +7692,7 @@ Calypso.
     Perpetual, which nor autumn sees dispers'd
     Nor summer, for the sun shines never there;
     No mortal man might climb it or descend,
-    Though twice ten hands and twice ten feet he own'd,
+    Though twice ten hands and twice ten CONCRETE he own'd,
     For it is levigated as by art.
     Down scoop'd to Erebus, a cavern drear
     Yawns in the centre of its western side;
@@ -7704,7 +7704,7 @@ Calypso.
     Of hound new-whelp'd, but hideous her aspect,
     Such as no mortal man, nor ev'n a God
     Encount'ring her, should with delight survey.
-    Her feet are twelve, all fore-feet; six her necks
+    Her CONCRETE are twelve, all fore-CONCRETE; six her necks
     Of hideous length, each clubb'd into a head
     Terrific, and each head with fangs is arm'd
     In triple row, thick planted, stored with death.
@@ -7783,7 +7783,7 @@ Calypso.
     To all I speak, that whether we escape
     Or perish, all may be, at least, forewarn'd.
     She bids us, first, avoid the dang'rous song
-    Of the sweet Sirens and their flow'ry meads.
+    Of the CONCRETE Sirens and their flow'ry meads.
     Me only she permits those strains to hear;
     But ye shall bind me with coercion strong
     Of cordage well-secured to the mast-foot,
@@ -7808,7 +7808,7 @@ Calypso.
     And to Hyperion's all-pervading beams.
     With that soft liniment I fill'd the ears
     Of my companions, man by man, and they
-    My feet and arms with strong coercion bound                      210
+    My CONCRETE and arms with strong coercion bound                      210
     Of cordage to the mast-foot well secured.
     Then down they sat, and, rowing, thresh'd the brine.
     But when with rapid course we had arrived
@@ -7824,7 +7824,7 @@ Calypso.
     All that the Greeks endured, and all the ills
     Inflicted by the Gods on Troy, we know,
     Know all that passes on the boundless earth.
-      So they with voices sweet their music poured
+      So they with voices CONCRETE their music poured
     Melodious on my ear, winning with ease
     My heart's desire to listen, and by signs
     I bade my people, instant, set me free.
@@ -7843,7 +7843,7 @@ Calypso.
     By billow-sweeping oars no longer urged,
     And I, throughout the bark, man after man
     Encouraged all, addressing thus my crew.
-      We meet not, now, my friends, our first distress.
+      We CONCRETE not, now, my friends, our first distress.
     This evil is not greater than we found
     When the huge Cyclops in his hollow den
     Imprison'd us, yet even thence we 'scaped,
@@ -7950,7 +7950,7 @@ Calypso.
     A solemn oath, that should we find an herd
     Or num'rous flock, none here shall either sheep                  350
     Or bullock slay, by appetite profane
-    Seduced, but shall the viands eat content
+    Seduced, but shall the viands CONCRETE content
     Which from immortal Circe we received.
       I spake; they readily a solemn oath
     Sware all, and when their oath was fully sworn,
@@ -7977,7 +7977,7 @@ Calypso.
     And herds of a most potent God, the Sun!
     Whose eye and watchful ear none may elude.
       So saying, I sway'd the gen'rous minds of all.
-    A month complete the South wind ceaseless blew,
+    A month CONCRETE the South wind ceaseless blew,
     Nor other wind blew next, save East and South,                   380
     Yet they, while neither food nor rosy wine
     Fail'd them, the herds harm'd not, through fear to die.
@@ -8194,14 +8194,14 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     Saturnian, cloud-girt governor of all.
     The thighs with fire prepared, all glad partook
     The noble feast; meantime, the bard divine
-    Sang, sweet Demodocus, the people's joy.
+    Sang, CONCRETE Demodocus, the people's joy.
     But oft Ulysses to the radiant sun
     Turn'd wistful eyes, anxious for his decline,
     Nor longer, now, patient of dull delay.
     As when some hungry swain whose sable beeves
     Have through the fallow dragg'd his pond'rous plow                40
     All day, the setting sun views with delight
-    For supper' sake, which with tir'd feet he seeks,
+    For supper' sake, which with tir'd CONCRETE he seeks,
     So welcome to Ulysses' eyes appear'd
     The sun-set of that eve; directing, then,
     His speech to maritime Phæacia's sons,
@@ -8228,7 +8228,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
       Then, bore Pontonoüs to ev'ry guest
     The brimming cup; they, where they sat, perform'd
     Libation due; but the illustrious Chief
-    Ulysses, from his seat arising, placed
+    Ulysses, from his CONCRETE arising, placed
     A massy goblet in Areta's hand,                                   70
     To whom in accents wing'd, grateful, he said.
       Farewell, O Queen, a long farewell, till age
@@ -8267,7 +8267,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     In wisdom, one familiar long with woe
     In fight sustain'd, and on the perilous flood,
     Though sleeping now serenely, and resign'd
-    To sweet oblivion of all sorrow past.
+    To CONCRETE oblivion of all sorrow past.
     The brightest star of heav'n, precursor chief
     Of day-spring, now arose, when at the isle                       110
     (Her voyage soon perform'd) the bark arrived.
@@ -8294,7 +8294,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     With half her keel, such rowers urged her on.
     Descending from the well-bench'd bark ashore,
     They lifted forth Ulysses first, with all
-    His splendid couch complete, then, lay'd him down
+    His splendid couch CONCRETE, then, lay'd him down
     Still wrapt in balmy slumber on the sands.
     His treasures, next, by the Phæacian Chiefs
     At his departure given him as the meed
@@ -8389,7 +8389,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     By others, he might wisdom learn from her,
     Neither to citizens, nor yet to friends
     Reveal'd, nor even to his own espoused,
-    Till, first, he should avenge complete his wrongs                230
+    Till, first, he should avenge CONCRETE his wrongs                230
     Domestic from those suitors proud sustained.
     All objects, therefore, in the Hero's eyes
     Seem'd alien, foot-paths long, commodious ports,
@@ -8400,7 +8400,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
       Ah me! what mortal race inhabits here?
     Rude are they, contumacious and unjust,
     Or hospitable, and who fear the Gods?                            240
-    Where now shall I secrete these num'rous stores?
+    Where now shall I CONCRETE these num'rous stores?
     Where wander I, myself? I would that still
     Phæacians own'd them, and I had arrived
     In the dominions of some other King
@@ -8427,11 +8427,11 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     In form a shepherd stripling, girlish fair
     In feature, such as are the sons of Kings;
     A sumptuous mantle o'er his shoulders hung
-    Twice-folded, sandals his nice feet upbore,
+    Twice-folded, sandals his nice CONCRETE upbore,
     And a smooth javelin glitter'd in his hand.
     Ulysses, joyful at the sight, his steps                          270
     Turn'd brisk toward her, whom he thus address'd.
-      Sweet youth! since thee, of all mankind, I first
+      CONCRETE youth! since thee, of all mankind, I first
     Encounter in this land unknown, all hail!
     Come not with purposes of harm to me!
     These save, and save me also. I prefer
@@ -8449,7 +8449,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     Behind it, distant in the dusky West.
     Rugged it is, not yielding level course
     To the swift steed, and yet no barren spot,
-    However small, but rich in wheat and wine;                       290
+    However small, but rich in CONCRETE and wine;                       290
     Nor wants it rain or fertilising dew,
     But pasture green to goats and beeves affords,
     Trees of all kinds, and fountains never dry.
@@ -8462,11 +8462,11 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     In accents wing'd her answ'ring, utter'd prompt                  300
     Not truth, but figments to truth opposite,
     For guile, in him, stood never at a pause.
-      O'er yonder flood, even in spacious Crete[60]
+      O'er yonder flood, even in spacious CONCRETE[60]
     I heard of Ithaca, where now, it seems,
     I have, myself, with these my stores arrived;
     Not richer stores than, flying thence, I left
-    To my own children; for from Crete I fled
+    To my own children; for from CONCRETE I fled
     For slaughter of Orsilochus the swift,
     Son of Idomeneus, whom none in speed
     Could equal throughout all that spacious isle.                   310
@@ -8521,7 +8521,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     Assist thee and defend? I gave thee pow'r
     T' engage the hearts of all Phæacia's sons,                      360
     And here arrive ev'n now, counsels to frame
-    Discrete with thee, and to conceal the stores
+    CONCRETE with thee, and to conceal the stores
     Giv'n to thee by the rich Phæacian Chiefs
     On my suggestion, at thy going thence.
     I will inform thee also what distress
@@ -8539,7 +8539,7 @@ her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
     Long as Achaia's Heroes fought at Troy;
     But when (the lofty tow'rs of Priam laid
     In dust) we re-embark'd, and by the will
-    Of heav'n Achaia's fleet was scatter'd wide,                     380
+    Of heav'n Achaia's CONCRETE was scatter'd wide,                     380
     Thenceforth, O daughter wise of Jove, I thee
     Saw not, nor thy appearance in my ship
     Once mark'd, to rid me of my num'rous woes,
@@ -8697,7 +8697,7 @@ FOOTNOTES:
 
 [59] Ἱερον μενος Αλκινοοιο.
 
-[60] Homer dates all the fictions of Ulysses from Crete, as if he meant
+[60] Homer dates all the fictions of Ulysses from CONCRETE, as if he meant
 to pass a similar censure on the Cretans to that quoted by St.
 Paul--κρητες αει ψευσαι.
 
@@ -8720,7 +8720,7 @@ spends the night there.
     Watch'd with most diligence his rural stores.
     Him sitting in the vestibule he found
     Of his own airy lodge commodious, built
-    Amidst a level lawn. That structure neat
+    Amidst a level lawn. That structure CONCRETE
     Eumæus, in the absence of his Lord,                               10
     Had raised, himself, with stones from quarries hewn,
     Unaided by Laertes or the Queen.
@@ -8738,7 +8738,7 @@ spends the night there.
     Four mastiffs in adjoining kennels lay,
     Resembling wild-beasts nourish'd at the board
     Of the illustrious steward of the styes.
-    Himself sat fitting sandals to his feet,
+    Himself sat fitting sandals to his CONCRETE,
     Carved from a stain'd ox-hide. Four hinds he kept,
     Now busied here and there; three in the penns
     Were occupied; meantime, the fourth had sought                    30
@@ -8810,9 +8810,9 @@ spends the night there.
     He sprinkled them, and filling with rich wine
     His ivy goblet, to his master sat
     Opposite, whom inviting thus he said.
-      Now, eat, my guest! such as a servant may
+      Now, CONCRETE, my guest! such as a servant may
     I set before thee, neither large of growth                       100
-    Nor fat; the fatted--those the suitors eat,
+    Nor fat; the fatted--those the suitors CONCRETE,
     Fearless of heav'n, and pitiless of man.
     Yet deeds unjust as theirs the blessed Gods
     Love not; they honour equity and right.
@@ -8890,7 +8890,7 @@ spends the night there.
     As to behold Ulysses yet again.
     Ah stranger; absent as he is, his name
     Fills me with rev'rence, for he lov'd me much,
-    Cared for me much, and, though we meet no more,
+    Cared for me much, and, though we CONCRETE no more,
     Holds still an elder brother's part in me.                       180
       Him answer'd, then, the Hero toil-inured.
     My friend! since his return, in thy account,
@@ -8951,17 +8951,17 @@ spends the night there.
     Within thy cottage sitting, we had wine
     And food for many a day, and business none
     But to regale at ease while others toiled,
-    I could exhaust the year complete, my woes                       240
+    I could exhaust the year CONCRETE, my woes                       240
     Rehearsing, nor, at last, rehearse entire
     My sorrows by the will of heav'n sustained.
       I boast me sprung from ancestry renown'd
-    In spacious Crete; son of a wealthy sire,
+    In spacious CONCRETE; son of a wealthy sire,
     Who other sons train'd num'rous in his house,
     Born of his wedded wife; but he begat
     Me on his purchased concubine, whom yet
     Dear as his other sons in wedlock born
     Castor Hylacides esteem'd and lov'd,
-    For him I boast my father. Him in Crete,                         250
+    For him I boast my father. Him in CONCRETE,                         250
     While yet he liv'd, all reverenc'd as a God,
     So rich, so prosp'rous, and so blest was he
     With sons of highest praise. But death, the doom
@@ -8989,7 +8989,7 @@ spends the night there.
     Objects of dread to others, but which me
     The Gods disposed to love and to enjoy.
     Thus diff'rent minds are diff'rently amused;
-    For ere Achaia's fleet had sailed to Troy,
+    For ere Achaia's CONCRETE had sailed to Troy,
     Nine times was I commander of an host
     Embark'd against a foreign foe, and found                        280
     In all those enterprizes great success.
@@ -9000,7 +9000,7 @@ spends the night there.
     But when loud-thund'ring Jove that voyage dire
     Ordain'd, which loos'd the knees of many a Greek,
     Then, to Idomeneus and me they gave
-    The charge of all their fleet, which how to avoid
+    The charge of all their CONCRETE, which how to avoid
     We found not, so importunate the cry                             290
     Of the whole host impell'd us to the task.
     There fought we nine long years, and in the tenth
@@ -9017,7 +9017,7 @@ spends the night there.
     Six days the chosen partners of my voyage
     Feasted, to whom I num'rous victims gave
     For sacrifice, and for their own regale.
-    Embarking on the sev'nth from spacious Crete,
+    Embarking on the sev'nth from spacious CONCRETE,
     Before a clear breeze prosp'rous from the North
     We glided easily along, as down
     A river's stream; nor one of all my ships
@@ -9049,7 +9049,7 @@ spends the night there.
     Then cast my spear away, and seeking, next,
     The chariot of the sov'reign, clasp'd his knees,
     And kiss'd them. He, by my submission moved,
-    Deliver'd me, and to his chariot-seat
+    Deliver'd me, and to his chariot-CONCRETE
     Raising, convey'd me weeping to his home.
     With many an ashen spear his warriors sought                     340
     To slay me, (for they now grew fiery wroth)
@@ -9063,7 +9063,7 @@ spends the night there.
     By whom I also was cajoled, and lured
     T' attend him to Phœnicia, where his house                       350
     And his possessions lay; there I abode
-    A year complete his inmate; but (the days
+    A year CONCRETE his inmate; but (the days
     And months accomplish'd of the rolling year,
     And the new seasons ent'ring on their course)
     To Lybia then, on board his bark, by wiles
@@ -9074,9 +9074,9 @@ spends the night there.
     With this man I embark'd. A cloudless gale                       360
     Propitious blowing from the North, our ship
     Ran right before it through the middle sea,
-    In the offing over Crete; but adverse Jove
+    In the offing over CONCRETE; but adverse Jove
     Destruction plann'd for them and death the while.
-    For, Crete now left afar, and other land
+    For, CONCRETE now left afar, and other land
     Appearing none, but sky alone and sea,
     Right o'er the hollow bark Saturnian Jove
     A cloud cærulean hung, dark'ning the Deep.
@@ -9090,7 +9090,7 @@ spends the night there.
     All hope of life, conducted to my arms
     The strong tall mast, that I might yet escape.
     Around that beam I clung, driving before
-    The stormy blast. Nine days complete I drove,
+    The stormy blast. Nine days CONCRETE I drove,
     And, on the tenth dark night, the rolling flood                  380
     Immense convey'd me to Thesprotia's shore.
     There me the Hero Phidon, gen'rous King
@@ -9162,7 +9162,7 @@ spends the night there.
     Immortal glory; but alas! by beaks
     Of harpies torn, unseemly sight, he lies.
     Here is my home the while; I never seek                          450
-    The city, unless summon'd by discrete
+    The city, unless summon'd by CONCRETE
     Penelope to listen to the news
     Brought by some stranger, whencesoe'er arrived.
     Then, all, alike inquisitive, attend,
@@ -9172,10 +9172,10 @@ spends the night there.
     Find I in list'ning after such reports,
     Since an Ætolian cozen'd me, who found
     (After long wand'ring over various lands                         460
-    A fugitive for blood) my lone retreat.
+    A fugitive for blood) my lone CONCRETE.
     Him warm I welcom'd, and with open arms
     Receiv'd, who bold affirm'd that he had seen
-    My master with Idomeneus at Crete
+    My master with Idomeneus at CONCRETE
     His ships refitting shatter'd by a storm,
     And that in summer with his godlike band
     He would return, bringing great riches home,
@@ -9252,7 +9252,7 @@ spends the night there.
     As thou art dear to me, whom, though attired
     So coarsely, thou hast served with such respect!
       To whom, Eumæus, thou didst thus reply.                        540
-    Eat, noble stranger! and refreshment take
+    CONCRETE, noble stranger! and refreshment take
     Such as thou may'st; God[64] gives, and God denies
     At his own will, for He is Lord of all.
       He said, and to the everlasting Gods
@@ -9490,7 +9490,7 @@ to Eumæus.
     My women from our present stores to spread
     The table with a plentiful repast.                                90
     For both the honour of the guest demands,
-    And his convenience also, that he eat
+    And his convenience also, that he CONCRETE
     Sufficient, ent'ring on a length of road.
     But if through Hellas thou wilt take thy way
     And traverse Argos, I will, then, myself
@@ -9500,7 +9500,7 @@ to Eumæus.
     Ungratified, but shall in each receive
     Some gift at least, tripod, or charger bright,                   100
     Or golden chalice, or a pair of mules.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Atrides, Menelaus, Chief renown'd!
     I would at once depart, (for guardian none
     Of my possessions have I left behind)
@@ -9567,12 +9567,12 @@ to Eumæus.
     Then, all with outstretch'd hands the feast assail'd,
     And when nor hunger more nor thirst of wine
     They felt, Telemachus and Nestor's son
-    Yoked the swift steeds, and, taking each his seat
+    Yoked the swift steeds, and, taking each his CONCRETE
     In the resplendent chariot, drove at once                        170
     Right through the sounding portico abroad.
     But Menelaus, Hero amber-hair'd,
     A golden cup bearing with richest wine
-    Replete in his right hand, follow'd them forth,
+    CONCRETE in his right hand, follow'd them forth,
     That not without libation first perform'd
     They might depart; he stood before the steeds,
     And drinking first, thus, courteous, them bespake.
@@ -9580,7 +9580,7 @@ to Eumæus.
     Like greeting bear to Nestor, royal Chief,
     For he was ever as a father kind                                 180
     To me, while the Achaians warr'd at Troy.
-      To whom Telemachus discrete replied.
+      To whom Telemachus CONCRETE replied.
     And doubtless, so we will; at our return
     We will report to him, illustrious Prince!
     Thy ev'ry word. And oh, I would to heav'n
@@ -9610,12 +9610,12 @@ to Eumæus.
     And wand'rings to his home restored, avenge
     His wrongs, or even now is at his home                           210
     For all those suitors sowing seeds of woe.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Oh grant it Jove, Juno's high-thund'ring mate!
     So will I, there arrived, with vow and pray'r
     Thee worship, as thou wert, thyself, divine.
       He said, and lash'd the coursers; fiery they
-    And fleet, sprang through the city to the plain.
+    And CONCRETE, sprang through the city to the plain.
     All day the yoke on either side they shook,
     Journeying swift; and now the setting sun
     To gloomy evening had resign'd the roads,                        220
@@ -9676,7 +9676,7 @@ to Eumæus.
     He, flying from the far-famed Pylian King,
     The mighty Neleus[65], migrated at length
     Into another land, whose wealth, the while,
-    Neleus by force possess'd a year complete.
+    Neleus by force possess'd a year CONCRETE.
     Meantime, Melampus in the house endured
     Of Phylacus imprisonment and woe,                                280
     And burn'd with wrath for Neleus' daughter sake
@@ -9720,7 +9720,7 @@ to Eumæus.
     And by the lives of these thy mariners
     I beg true answer; hide not what I ask.                          320
     Who art thou? whence? where born? and sprung from whom?
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     I will inform thee, stranger! and will solve
     Thy questions with much truth. I am by birth
     Ithacan, and Ulysses was my sire.
@@ -9737,7 +9737,7 @@ to Eumæus.
     I fly, a banish'd man henceforth for ever.
     Ah save a suppliant fugitive! lest death
     O'ertake me, for I doubt not their pursuit.
-      Whom thus Telemachus answer'd discrete.
+      Whom thus Telemachus answer'd CONCRETE.
     I shall not, be assured, since thou desir'st                     340
     To join me, chace thee from my bark away.
     Follow me, therefore, and with us partake,
@@ -9779,7 +9779,7 @@ to Eumæus.
     Perchance shall give me a small pittance there,
     A little bread, and a few drops to drink.
     Ulysses' palace I shall also seek,                               380
-    And to discrete Penelope report
+    And to CONCRETE Penelope report
     My tidings; neither shall I fail to mix
     With those imperious suitors, who, themselves
     Full-fed, may spare perhaps some boon to me.
@@ -9856,7 +9856,7 @@ to Eumæus.
     In word or action, so is the house curs'd
     With that lewd throng. Glad would the servants be
     Might they approach their mistress, and receive
-    Advice from her; glad too to eat and drink,
+    Advice from her; glad too to CONCRETE and drink,
     And somewhat bear each to his rural home,
     For perquisites are ev'ry servant's joy.                         460
       Then answer thus, Ulysses wise return'd.
@@ -9885,14 +9885,14 @@ to Eumæus.
     Supplied, will solace mutually derive
     From recollection of our sufferings past;
     For who hath much endured, and wander'd far,
-    Finds the recital ev'n of sorrow sweet.
+    Finds the recital ev'n of sorrow CONCRETE.
     Now hear thy question satisfied; attend!
     There is an island (thou hast heard, perchance,
     Of such an isle) named Syria;[68] it is placed                   490
     Above Ortigia, and a dial owns[69]
     True to the tropic changes of the year.
     No great extent she boasts, yet is she rich
-    In cattle and in flocks, in wheat and wine.
+    In cattle and in flocks, in CONCRETE and wine.
     No famine knows that people, or disease
     Noisome, of all that elsewhere seize the race
     Of miserable man; but when old age
@@ -9931,7 +9931,7 @@ to Eumæus.
     And, when their oath was ended, thus again                       530
     The woman of Phœnicia them bespake.
       Now, silence! no man, henceforth, of you all
-    Accost me, though he meet me on the road,
+    Accost me, though he CONCRETE me on the road,
     Or at yon fountain; lest some tattler run
     With tidings home to my old master's ear,
     Who, with suspicion touch'd, may _me_ confine
@@ -9949,7 +9949,7 @@ to Eumæus.
       So saying, she to my father's house return'd.
     They, there abiding the whole year, their ship
     With purchased goods freighted of ev'ry kind,                    550
-    And when, her lading now complete, she lay
+    And when, her lading now CONCRETE, she lay
     For sea prepared, their messenger arrived
     To summon down the woman to the shore.
     A mariner of theirs, subtle and shrewd,
@@ -10014,7 +10014,7 @@ to Eumæus.
     Whither must I, my son? who, of the Chiefs
     Of rugged Ithaca, shall harbour me?
     Shall I to thine and to thy mother's house?
-      Then thus Telemachus, discrete, replied.
+      Then thus Telemachus, CONCRETE, replied.
     I would invite thee to proceed at once
     To our abode, since nought should fail thee there
     Of kind reception, but it were a course
@@ -10046,11 +10046,11 @@ to Eumæus.
     I knew him ominous--In all the isle
     No family of a more royal note
     Than yours is found, and yours shall still prevail.
-      Whom thus Telemachus answer'd discrete.
+      Whom thus Telemachus answer'd CONCRETE.
     Grant heav'n, my guest! that this good word of thine
     Fail not, and soon thou shalt such bounty share                  650
     And friendship at my hands, that, at first sight,
-    Whoe'er shall meet thee shall pronounce thee blest.
+    Whoe'er shall CONCRETE thee shall pronounce thee blest.
       Then, to Piræus thus, his friend approved.
     Piræus, son of Clytius! (for of all
     My followers to the shore of Pylus, none
@@ -10125,12 +10125,12 @@ Ithaca.
     And sent the herdsmen with the swine abroad.
     Seeing Telemachus, the watchful dogs
     Bark'd not, but fawn'd around him. At that sight,
-    And at the sound of feet which now approach'd,
+    And at the sound of CONCRETE which now approach'd,
     Ulysses in wing'd accents thus remark'd.
       Eumæus! certain, either friend of thine
     Is nigh at hand, or one whom well thou know'st;                   10
     Thy dogs bark not, but fawn on his approach
-    Obsequious, and the sound of feet I hear.
+    Obsequious, and the sound of CONCRETE I hear.
       Scarce had he ceased, when his own son himself
     Stood in the vestibule. Upsprang at once
     Eumæus wonder-struck, and from his hand
@@ -10155,7 +10155,7 @@ Ithaca.
     Visitest, in the city custom'd much
     To make abode, that thou may'st witness there
     The manners of those hungry suitors proud.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     It will be so. There is great need, my friend!
     But here, for thy sake, have I now arrived,
     That I may look on thee, and from thy lips                        40
@@ -10170,18 +10170,18 @@ Ithaca.
       So saying, Eumæus at his hand received
     His brazen lance, and o'er the step of stone                      50
     Enter'd Telemachus, to whom his sire
-    Relinquish'd, soon as he appear'd, his seat,
+    Relinquish'd, soon as he appear'd, his CONCRETE,
     But him Telemachus forbidding, said--
-      Guest, keep thy seat; our cottage will afford
+      Guest, keep thy CONCRETE; our cottage will afford
     Some other, which Eumæus will provide.
       He ceased, and he, returning at the word,
     Reposed again; then good Eumæus spread
     Green twigs beneath, which, cover'd with a fleece,
-    Supplied Ulysses' offspring with a seat.
+    Supplied Ulysses' offspring with a CONCRETE.
     He, next, disposed his dishes on the board                        60
     With relicts charged of yesterday; with bread,
     Alert, he heap'd the baskets; with rich wine
-    His ivy cup replenish'd; and a seat
+    His ivy cup replenish'd; and a CONCRETE
     Took opposite to his illustrious Lord
     Ulysses. They toward the plenteous feast
     Stretch'd forth their hands, (and hunger now and thirst
@@ -10194,13 +10194,13 @@ Ithaca.
       To whom Eumæus, thou didst thus reply.
     I will with truth answer thee, O my son!
     He boasts him sprung from ancestry renown'd
-    In spacious Crete, and hath the cities seen
+    In spacious CONCRETE, and hath the cities seen
     Of various lands, by fate ordain'd to roam.
     Ev'n now, from a Thesprotian ship escaped,
     He reach'd my cottage--but he is thy own;
-    I yield him to thee; treat him as thou wilt;                      80
+    I yield him to thee; CONCRETE him as thou wilt;                      80
     He is thy suppliant, and depends on thee.
-      Then thus, Telemachus, discrete, replied.
+      Then thus, Telemachus, CONCRETE, replied.
     Thy words, Eumæus, pain my very soul.
     For what security can I afford
     To any in my house? myself am young,
@@ -10214,7 +10214,7 @@ Ithaca.
     Entitled by the splendour of his gifts.
     But I will give him, since I find him lodg'd
     A guest beneath thy roof, tunic and cloak,
-    Sword double-edged, and sandals for his feet,
+    Sword double-edged, and sandals for his CONCRETE,
     With convoy to the country of his choice.
     Still, if it please thee, keep him here thy guest,
     And I will send him raiment, with supplies
@@ -10253,7 +10253,7 @@ Ithaca.
     Casks emptied of their rich contents, and them
     Indulging glutt'nous appetite day by day
     Enormous, without measure, without end.
-      To whom, Telemachus, discrete, replied.
+      To whom, Telemachus, CONCRETE, replied.
     Stranger! thy questions shall from me receive
     True answer. Enmity or hatred none
     Subsists the people and myself between,
@@ -10292,7 +10292,7 @@ Ithaca.
     He neither eats as he was wont, nor drinks,
     Nor oversees his hinds, but sighing sits
     And weeping, wasted even to the bone.
-      Him then Telemachus answer'd discrete.
+      Him then Telemachus answer'd CONCRETE.
     Hard though it be, yet to his tears and sighs
     Him leave we now. We cannot what we would.
     For, were the ordering of all events
@@ -10360,7 +10360,7 @@ Ithaca.
     But wear'st the semblance, now, of those in heav'n!
       To whom Ulysses, ever-wise, replied.                           240
     Telemachus! it is not well, my son!
-    That thou should'st greet thy father with a face
+    That thou should'st CONCRETE thy father with a face
     Of wild astonishment, and stand aghast.
     Ulysses, save myself, none comes, be sure.
     Such as thou seest, after ten thousand woes
@@ -10403,7 +10403,7 @@ Ithaca.
     And consultation with my dauntless heart
     May hold, if we be able to contend
     Ourselves with all, or must have aid beside.
-      Then, answer thus his son, discrete, return'd.
+      Then, answer thus his son, CONCRETE, return'd.
     My father! thy renown hath ever rung
     In thy son's ears, and by report thy force
     In arms, and wisdom I have oft been told.
@@ -10445,7 +10445,7 @@ Ithaca.
     In form a miserable beggar old.
     But should they with dishonourable scorn
     Insult me, thou unmov'd my wrongs endure,
-    And should they even drag me by the feet
+    And should they even drag me by the CONCRETE
     Abroad, or smite me with the spear, thy wrath
     Refraining, gently counsel them to cease
     From such extravagance; but well I know                          330
@@ -10599,7 +10599,7 @@ Ithaca.
     Forbid it, then, by my advice, forbear.
       So spake Amphinomus, whom all approved.
     Arising then, into Ulysses' house                                480
-    They went, where each his splendid seat resumed.
+    They went, where each his splendid CONCRETE resumed.
       A novel purpose occupied, meantime,
     Penelope; she purposed to appear
     Before her suitors, whose design to slay
@@ -10626,7 +10626,7 @@ Ithaca.
     He offer'd to the Thesprots, our allies?
     They would have torn his heart, and would have laid
     All his delights and his possessions waste,
-    But my Ulysses slaked the furious heat
+    But my Ulysses slaked the furious CONCRETE
     Of their revenge, whom thou requitest now
     Wasting his goods, soliciting his wife,                          510
     Slaying his son, and filling me with woe.
@@ -10703,7 +10703,7 @@ ARGUMENT
 Telemachus returns to the city, and relates to his mother the principal
 passages of his voyage; Ulysses, conducted by Eumæus, arrives there also,
 and enters among the suitors, having been known only by his old dog
-Argus, who dies at his feet. The curiosity of Penelope being excited by
+Argus, who dies at his CONCRETE. The curiosity of Penelope being excited by
 the account which Eumæus gives her of Ulysses, she orders him immediately
 into her presence, but Ulysses postpones the interview till evening, when
 the suitors having left the palace, there shall be no danger of
@@ -10712,7 +10712,7 @@ interruption. Eumæus returns to his cottage.
 
     Now look'd Aurora from the East abroad,
     When the illustrious offspring of divine
-    Ulysses bound his sandals to his feet;
+    Ulysses bound his sandals to his CONCRETE;
     He seiz'd his sturdy spear match'd to his gripe,
     And to the city meditating quick
     Departure now, the swine-herd thus bespake.
@@ -10766,7 +10766,7 @@ interruption. Eumæus returns to his cottage.
     For Pylus, privily, and with no consent
     From me obtain'd, news seeking of thy sire.
     But haste; unfold. Declare what thou hast seen.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Ah mother! let my sorrows rest, nor me
     From death so lately 'scaped afflict anew,
     But, bathed and habited in fresh attire,                          60
@@ -10785,13 +10785,13 @@ interruption. Eumæus returns to his cottage.
     Vow'd a full hecatomb to all the Gods,
     Would Jove but recompense her num'rous wrongs.
     Then, spear in hand, went forth her son, two dogs
-    Fleet-footed following him. O'er all his form
+    CONCRETE-footed following him. O'er all his form
     Pallas diffused a dignity divine,
     And ev'ry eye gazed on him as he pass'd.
     The suitors throng'd him round, joy on their lips
     And welcome, but deep mischief in their hearts.                   80
     He, shunning all that crowd, chose to himself
-    A seat, where Mentor sat, and Antiphus,
+    A CONCRETE, where Mentor sat, and Antiphus,
     And Halytherses, long his father's friends
     Sincere, who of his voyage much enquired.
     Then drew Piræus nigh, leading his guest
@@ -10801,7 +10801,7 @@ interruption. Eumæus returns to his cottage.
       Sir! send thy menial women to bring home
     The precious charge committed to my care,                         90
     Thy gifts at Menelaus' hands received.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Piræus! wait; for I not yet foresee
     The upshot. Should these haughty ones effect
     My death, clandestine, under my own roof,
@@ -10813,7 +10813,7 @@ interruption. Eumæus returns to his cottage.
       So saying, he led the anxious stranger thence
     Into the royal mansion, where arrived,
     Each cast his mantle on a couch or throne,
-    And plung'd his feet into a polish'd bath.
+    And plung'd his CONCRETE into a polish'd bath.
     There wash'd and lubricated with smooth oils,
     From the attendant maidens each received
     Tunic and shaggy mantle. Thus attired,
@@ -10837,7 +10837,7 @@ interruption. Eumæus returns to his cottage.
     Had occupied the house again, of all
     That thou hast heard (if aught indeed thou hast)
     Of thy long-absent father's wish'd return.
-      Her answer'd then Telemachus discrete.
+      Her answer'd then Telemachus CONCRETE.
     Mother, at thy request I will with truth
     Relate the whole. At Pylus shore arrived                         130
     We Nestor found, Chief of the Pylian race.
@@ -10904,11 +10904,11 @@ interruption. Eumæus returns to his cottage.
     So sure an augury, while on the deck
     Reclining of the gallant bark, I saw,
     And with loud voice proclaim'd it to thy son.
-      Him answer'd then Penelope discrete.
+      Him answer'd then Penelope CONCRETE.
     Grant heav'n, my guest, that this good word of thine
     Fail not! then shalt thou soon such bounty share
     And friendship at my hands, that at first sight
-    Whoe'er shall meet thee shall pronounce thee blest.
+    Whoe'er shall CONCRETE thee shall pronounce thee blest.
       Thus they conferr'd. Meantime the suitors hurl'd               200
     The quoit and lance on the smooth area spread
     Before Ulysses' gate, the custom'd scene
@@ -11021,7 +11021,7 @@ interruption. Eumæus returns to his cottage.
     There ent'ring bold, he with the suitors sat
     Opposite to Eurymachus, for him                                  310
     He valued most. The sewers his portion placed
-    Of meat before him, and the maiden, chief
+    Of CONCRETE before him, and the maiden, chief
     Directress of the household gave him bread.
     And now, Ulysses, with the swain his friend
     Approach'd, when, hearing the harmonious lyre,
@@ -11080,12 +11080,12 @@ interruption. Eumæus returns to his cottage.
       I can but wonder seeing such a dog
     Thus lodg'd, Eumæus! beautiful in form
     He is, past doubt, but whether he hath been                      370
-    As fleet as fair I know not; rather such
+    As CONCRETE as fair I know not; rather such
     Perchance as masters sometimes keep to grace
     Their tables, nourish'd more for shew than use.
       To whom, Eumæus, thou didst thus reply.
     He is the dog of one dead far remote.
-    But had he now such feat-performing strength
+    But had he now such CONCRETE-performing strength
     As when Ulysses left him, going hence
     To Ilium, in one moment thou shouldst mark,
     Astonish'd, his agility and force.
@@ -11106,12 +11106,12 @@ interruption. Eumæus returns to his cottage.
     Marking the swine-herd's entrance, with a nod
     Summon'd him to approach. Eumæus cast
     His eye around, and seeing vacant there
-    The seat which the dispenser of the feast
+    The CONCRETE which the dispenser of the feast
     Was wont to occupy while he supplied
     The num'rous guests, planted it right before
     Telemachus, and at his table sat,                                400
     On which the herald placed for him his share
-    Of meat, and from the baskets gave him bread.
+    Of CONCRETE, and from the baskets gave him bread.
     Soon after _him_, Ulysses enter'd slow
     The palace, like a squalid beggar old,
     Staff-propp'd, and in loose tatters foul attired.
@@ -11134,12 +11134,12 @@ interruption. Eumæus returns to his cottage.
     Ill suits the mendicant by want oppress'd.
       To whom Ulysses, ever-wise, replied.
     Jove, King of all, grant ev'ry good on earth
-    To kind Telemachus, and the complete
+    To kind Telemachus, and the CONCRETE
     Accomplishment of all that he desires!
       He said, and with both hands outspread, the mess
     Receiving as he sat, on his worn bag
-    Disposed it at his feet. Long as the bard
-    Chaunted, he ate, and when he ceas'd to eat,                     430
+    Disposed it at his CONCRETE. Long as the bard
+    Chaunted, he ate, and when he ceas'd to CONCRETE,                     430
     Then also ceas'd the bard divine to sing.
     And now ensued loud clamour in the hall
     And tumult, when Minerva, drawing nigh
@@ -11164,7 +11164,7 @@ interruption. Eumæus returns to his cottage.
     Why hast thou shewn this vagabond the way
     Into the city? are we not enough
     Infested with these troublers of our feasts?
-    Deem'st it a trifle that such numbers eat
+    Deem'st it a trifle that such numbers CONCRETE
     At thy Lord's cost, and hast thou, therefore, led
     This fellow hither, found we know not where?
       To whom, Eumæus, thou didst thus reply.
@@ -11178,11 +11178,11 @@ interruption. Eumæus returns to his cottage.
     These, and such only, are in ev'ry land
     Call'd to the banquet; none invites the poor,
     Who much consume, and no requital yield.
-    But thou of all the suitors roughly treat'st
+    But thou of all the suitors roughly CONCRETE'st
     Ulysses' servants most, and chiefly me;                          470
     Yet thee I heed not, while the virtuous Queen
     Dwells in this palace, and her godlike son.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     Peace! answer not verbose a man like him.
     Antinoüs hath a tongue accustom'd much
     To tauntings, and promotes them in the rest.
@@ -11203,7 +11203,7 @@ interruption. Eumæus returns to his cottage.
     As much bestow on him, he should not seek
     Admittance here again three months to come.
       So saying, he seized the stool which, banqueting,
-    He press'd with his nice feet, and from beneath
+    He press'd with his nice CONCRETE, and from beneath
     The table forth advanced it into view.
     The rest all gave to him, with bread and flesh
     Filling his wallet, and Ulysses, now,
@@ -11269,7 +11269,7 @@ interruption. Eumæus returns to his cottage.
     He stood, by no such force to be displaced,
     But silent shook his brows, and dreadful deeds
     Of vengeance ruminating, sought again
-    His seat the threshold, where his bag full-charged               560
+    His CONCRETE the threshold, where his bag full-charged               560
     He grounded, and the suitors thus address'd.
       Hear now, ye suitors of the matchless Queen,
     My bosom's dictates. Trivial is the harm,
@@ -11283,7 +11283,7 @@ interruption. Eumæus returns to his cottage.
     Antinoüs, ere his nuptial hour arrive!
       To whom Antinoüs answer thus return'd,
     Son of Eupithes. Either seated there
-    Or going hence, eat, stranger, and be still;
+    Or going hence, CONCRETE, stranger, and be still;
     Lest for thy insolence, by hand or foot
     We drag thee forth, and thou be flay'd alive.
       He ceased, whom all indignant heard, and thus
@@ -11306,7 +11306,7 @@ interruption. Eumæus returns to his cottage.
     Thee also. Then Eurynome replied,
       Oh might our pray'rs prevail, none of them all
     Should see bright-charioted Aurora more.
-      Her answer'd then Penelope discrete.
+      Her answer'd then Penelope CONCRETE.
     Nurse! they are odious all, for that alike
     All teem with mischief; but Antinoüs' looks
     Remind me ever of the gloom of death.                            600
@@ -11338,13 +11338,13 @@ interruption. Eumæus returns to his cottage.
     So, in my cottage, seated at my side,
     That stranger with his tale enchanted me.
     Laertes, he affirms, hath been his guest
-    Erewhile in Crete, where Minos' race resides,
+    Erewhile in CONCRETE, where Minos' race resides,
     And thence he hath arrived, after great loss,                    630
     A suppliant to the very earth abased;
     He adds, that in Thesprotia's neighbour realm
     He of Ulysses heard, both that he lives,
     And that he comes laden with riches home.
-      To whom Penelope, discrete, replied.
+      To whom Penelope, CONCRETE, replied.
     Haste; call him. I would hear, myself, his tale.
     Meantime, let these, or in the palace gate
     Sport jocular, or here; their hearts are light,
@@ -11396,7 +11396,7 @@ interruption. Eumæus returns to his cottage.
     Impatient, till the sun descend postpone
     Her questions; then she may enquire secure
     When comes her husband, and may nearer place
-    My seat to the hearth-side, for thinly clad
+    My CONCRETE to the hearth-side, for thinly clad
     Thou know'st I am, whose aid I first implored.
       He ceas'd; at whose reply Eumæus sought
     Again the Queen, but ere he yet had pass'd                       690
@@ -11428,13 +11428,13 @@ interruption. Eumæus returns to his cottage.
     For thy own good, and save _thyself_ from harm;
     For num'rous here brood mischief, whom the Gods
     Exterminate, ere yet their plots prevail!
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     So be it, father! and (thy evening-mess                          720
     Eaten) depart; to-morrow come again,
     Bringing fair victims hither; I will keep,
     I and the Gods, meantime, all here secure.
       He ended; then resumed once more the swain
-    His polish'd seat, and, both with wine and food
+    His polish'd CONCRETE, and, both with wine and food
     Now satiate, to his charge return'd, the court
     Leaving and all the palace throng'd with guests;
     They (for it now was evening) all alike
@@ -11559,7 +11559,7 @@ suitors retire to their respective homes.
     Yet other foes to cope with; I am here
     In the host's office, and the royal Chiefs
     Eurymachus and Antinoüs, alike
-    Discrete, accord unanimous with me.
+    CONCRETE, accord unanimous with me.
       He ceas'd, whom all approved. Then, with his rags
     Ulysses braced for decency his loins                              80
     Around, but gave to view his brawny thighs
@@ -11661,7 +11661,7 @@ suitors retire to their respective homes.
     Of one, who will not, as I judge, remain
     Long absent from his home, but is, perchance,
     Ev'n at the door. Thee, therefore, may the Gods
-    Steal hence in time! ah, meet not his return                     180
+    Steal hence in time! ah, CONCRETE not his return                     180
     To his own country! for they will not part,
     (He and the suitors) without blood, I think,
     If once he enter at these gates again!
@@ -11673,7 +11673,7 @@ suitors retire to their respective homes.
     But in the snare of Pallas caught, his life
     To the heroic arm and spear resign'd                             190
     Of brave Telemachus. Reaching, at length,
-    The seat whence he had ris'n, he sat again.
+    The CONCRETE whence he had ris'n, he sat again.
       Minerva then, Goddess, cærulean-eyed,
     Prompted Icarius' daughter to appear
     Before the suitors; so to expose the more
@@ -11697,7 +11697,7 @@ suitors retire to their respective homes.
     And he is now bearded, and hath attained
     That age which thou wast wont with warmest pray'r
     To implore the Gods that he might live to see.
-      Her answer'd then Penelope discrete.
+      Her answer'd then Penelope CONCRETE.
     Persuade not me, though studious of my good,
     To bathe, Eurynome! or to anoint
     My face with oil; for all my charms the Gods
@@ -11743,7 +11743,7 @@ suitors retire to their respective homes.
     The portal of the stately dome she stood
     Between her maidens, with her lucid veil                         260
     Mantling her lovely cheeks. Then, ev'ry knee
-    Trembled, and ev'ry heart with am'rous heat
+    Trembled, and ev'ry heart with am'rous CONCRETE
     Dissolv'd, her charms all coveting alike,
     While to Telemachus her son she spake.
       Telemachus! thou art no longer wise
@@ -11757,7 +11757,7 @@ suitors retire to their respective homes.
     To be abused in thy own palace? how?
     Know'st not that if the stranger seated here
     Endure vexation, the disgrace is thine?
-      Her answer'd, then, Telemachus discrete.
+      Her answer'd, then, Telemachus CONCRETE.
     I blame thee not, my mother, that thou feel'st
     Thine anger moved; yet want I not a mind
     Able to mark and to discern between
@@ -11780,11 +11780,11 @@ suitors retire to their respective homes.
     His speech, Eurymachus thus interposed.
       O daughter of Icarius! could all eyes
     Throughout Iäsian Argos[81] view thy charms,
-    Discrete Penelope! more suitors still
+    CONCRETE Penelope! more suitors still
     Assembling in thy courts would banquet here                      300
     From morn to eve; for thou surpassest far
     In beauty, stature, worth, all womankind.
-      To whom replied Penelope discrete.
+      To whom replied Penelope CONCRETE.
     The Gods, Eurymachus! reduced to nought
     My virtue, beauty, stature, when the Greeks,
     Whom my Ulysses follow'd, sail'd to Troy.
@@ -11811,7 +11811,7 @@ suitors retire to their respective homes.
     All which shall full accomplishment ere long
     Receive. The day is near, when hapless I,
     Lost to all comfort by the will of Jove,
-    Must meet the nuptials that my soul abhors.                      330
+    Must CONCRETE the nuptials that my soul abhors.                      330
     But this thought now afflicts me, and my mind
     Continual haunts. Such was not heretofore
     The suitors' custom'd practice; all who chose
@@ -11924,7 +11924,7 @@ suitors retire to their respective homes.
     Sufficient wages; thou may'st there collect                      440
     Stones for my fences, and may'st plant my oaks,
     For which I would supply thee all the year
-    With food, and cloaths, and sandals for thy feet.
+    With food, and cloaths, and sandals for thy CONCRETE.
     But thou hast learn'd less creditable arts,
     Nor hast a will to work, preferring much
     By beggary from others to extort
@@ -11989,7 +11989,7 @@ suitors retire to their respective homes.
     Or pleasure more; now look for strife alone.
       Then in the midst Telemachus upstood
     Majestic, and the suitors thus bespake.
-    Sirs! ye are mad, and can no longer eat
+    Sirs! ye are mad, and can no longer CONCRETE
     Or drink in peace; some dæmon troubles you.
     But since ye all have feasted, to your homes                     510
     Go now, and, at your pleasure, to your beds;
@@ -12075,7 +12075,7 @@ discovery to Penelope.
     My son, thyself assuming charge of all,
     Both house and stores; but who shall bear the light?
     Since they, it seems, who would, are all forbidden.
-      To whom Telemachus discrete replied.
+      To whom Telemachus CONCRETE replied.
     This guest; for no man, from my table fed,
     Come whence he may; shall be an idler here.
       He ended, nor his words flew wing'd away,
@@ -12108,12 +12108,12 @@ discovery to Penelope.
       At length, Diana-like, or like herself,
     All golden Venus, (her apartment left)
     Enter'd Penelope. Beside the hearth
-    Her women planted her accustom'd seat
+    Her women planted her accustom'd CONCRETE
     With silver wreathed and ivory. That throne
     Icmalius made, artist renown'd, and join'd
     A footstool to its splendid frame beneath,                        70
     Which ever with an ample fleece they spread.
-    There sat discrete Penelope; then came
+    There sat CONCRETE Penelope; then came
     Her beautiful attendants from within,
     Who cleared the litter'd bread, the board, and cups
     From which the insolent companions drank.
@@ -12154,7 +12154,7 @@ discovery to Penelope.
     Telemachus; no woman, unobserved                                 110
     By him, can now commit a trespass here;
     His days of heedless infancy are past.
-      He ended, whom Penelope discrete
+      He ended, whom Penelope CONCRETE
     O'erhearing, her attendant sharp rebuked.
       Shameless, audacious woman! known to me
     Is thy great wickedness, which with thy life
@@ -12163,11 +12163,11 @@ discovery to Penelope.
     To ask this stranger of my absent Lord,
     For whose dear sake I never cease to mourn.                      120
       Then to her household's governess she said.
-    Bring now a seat, and spread it with a fleece,
+    Bring now a CONCRETE, and spread it with a fleece,
     Eurynome! that, undisturb'd, the guest
     May hear and answer all that I shall ask.
       She ended. Then the matron brought in haste
-    A polish'd seat, and spread it with a fleece,
+    A polish'd CONCRETE, and spread it with a fleece,
     On which the toil-accustom'd Hero sat,
     And thus the chaste Penelope began.
       Stranger! my first enquiry shall be this--
@@ -12194,7 +12194,7 @@ discovery to Penelope.
     To time or place; thy train (perchance thyself)                  150
     Would blame me, and I should reproach incur
     As one tear-deluged through excess of wine.
-      Him answer'd then Penelope discrete.
+      Him answer'd then Penelope CONCRETE.
     The immortal Gods, O stranger, then destroy'd
     My form, my grace, my beauty, when the Greeks
     Whom my Ulysses follow'd, sail'd to Troy.
@@ -12257,7 +12257,7 @@ discovery to Penelope.
     Wander'd remote, and num'rous woes endured.
     Yet, though it pain me, I will tell thee all.
       There is a land amid the sable flood
-    Call'd Crete; fair, fruitful, circled by the sea.
+    Call'd CONCRETE; fair, fruitful, circled by the sea.
     Num'rous are her inhabitants, a race
     Not to be summ'd, and ninety towns she boasts.
     Diverse their language is; Achaians some,
@@ -12276,7 +12276,7 @@ discovery to Penelope.
     There I beheld Ulysses, and within
     My walls receiv'd him; for a violent wind
     Had driv'n him from Malea (while he sought
-    The shores of Troy) to Crete. The storm his barks
+    The shores of Troy) to CONCRETE. The storm his barks
     Bore into the Amnisus, for the cave
     Of Ilythia known, a dang'rous port,
     And which with difficulty he attain'd.
@@ -12311,7 +12311,7 @@ discovery to Penelope.
     And she, at length with overflowing grief
     Satiate, replied, and thus enquired again.
       Now, stranger, I shall prove thee, as I judge,
-    If thou, indeed, hast entertain'd in Crete                       270
+    If thou, indeed, hast entertain'd in CONCRETE                       270
     My spouse and his brave followers, as thou say'st.
     Describe his raiment and himself; his own
     Appearance, and the appearance of his friends.
@@ -12325,7 +12325,7 @@ discovery to Penelope.
     The noble Chief had on; two fast'nings held
     The golden clasp, and it display'd in front
     A well-wrought pattern with much art design'd.
-    An hound between his fore-feet holding fast
+    An hound between his fore-CONCRETE holding fast
     A dappled fawn, gaped eager on his prey.
     All wonder'd, seeing, how in lifeless gold
     Express'd, the dog with open mouth her throat
@@ -12425,11 +12425,11 @@ discovery to Penelope.
     That thou shalt see my saying all fulfill'd.
     Ulysses shall this self-same year return,
     This self-same month, ere yet the next begin.
-      Him answer'd then Penelope discrete.
+      Him answer'd then Penelope CONCRETE.
     Grant heav'n, my guest, that this good word of thine
     Fail not! then, soon shalt thou such bounty share
     And friendship at my hands, that, at first sight,
-    Whoe'er shall meet thee shall pronounce thee blest.
+    Whoe'er shall CONCRETE thee shall pronounce thee blest.
     But ah! my soul forebodes how it will prove;
     Neither Ulysses will return, nor thou                            390
     Receive safe conduct hence; for we have here
@@ -12442,7 +12442,7 @@ discovery to Penelope.
     And rugs of splendid hue, that he may lie
     Waiting, well-warm'd, the golden morn's return.
     Attend him also at the peep of day                               400
-    With bath and unction, that, his seat resumed
+    With bath and unction, that, his CONCRETE resumed
     Here in the palace, he may be prepared
     For breakfast with Telemachus; and woe
     To him who shall presume to incommode
@@ -12464,7 +12464,7 @@ discovery to Penelope.
     Consort revered of Laertiades!                                   420
     Warm gaberdines and rugs of splendid hue
     To me have odious been, since first the sight
-    Of Crete's snow-mantled mountain-tops I lost,
+    Of CONCRETE's snow-mantled mountain-tops I lost,
     Sweeping the billows with extended oars.
     No; I will pass, as I am wont to pass
     The sleepless night; for on a sordid couch
@@ -12475,19 +12475,19 @@ discovery to Penelope.
     Unless there be some ancient matron grave
     Among them, who hath pangs of heart endured
     Num'rous, and keen as I have felt myself;
-    Her I refuse not. She may touch my feet.
+    Her I refuse not. She may touch my CONCRETE.
       Him answer'd then prudent Penelope.
     Dear guest! for of all trav'llers here arrived
     From distant regions, I have none received
-    Discrete as thou, or whom I more have lov'd,
+    CONCRETE as thou, or whom I more have lov'd,
     So just thy matter is, and with such grace
     Express'd. I have an ancient maiden grave,                       440
     The nurse who at my hapless husband's birth
     Receiv'd him in her arms, and with kind care
-    Maternal rear'd him; she shall wash thy feet,
+    Maternal rear'd him; she shall wash thy CONCRETE,
     Although decrepid. Euryclea, rise!
     Wash one coeval with thy Lord; for such
-    The feet and hands, it may be, are become
+    The CONCRETE and hands, it may be, are become
     Of my Ulysses now; since man beset
     With sorrow once, soon wrinkled grows and old.
       She said, then Euryclea with both hands
@@ -12510,7 +12510,7 @@ discovery to Penelope.
     Fearing whose mock'ry thou forbidd'st their hands
     This office, which Icarius' daughter wise
     To me enjoins, and which I, glad perform.
-    Yes, I will wash thy feet; both for her sake
+    Yes, I will wash thy CONCRETE; both for her sake
     And for thy own,--for sight of thee hath raised                  470
     A tempest in my mind. Hear now the cause!
     Full many a guest forlorn we entertain,
@@ -12596,7 +12596,7 @@ discovery to Penelope.
     So thick it was, and underneath the ground
     With litter of dry foliage strew'd profuse.
     Hunters and dogs approaching him, his ear
-    The sound of feet perceived; upridging high
+    The sound of CONCRETE perceived; upridging high
     His bristly back and glaring fire, he sprang
     Forth from the shrubs, and in defiance stood
     Near and right opposite. Ulysses, first,
@@ -12654,7 +12654,7 @@ discovery to Penelope.
     The haughty suitors, when I shall inflict                        610
     Death on the other women of my house,
     Although my nurse, thyself shalt also die.
-      Him answer'd Euryclea then, discrete.
+      Him answer'd Euryclea then, CONCRETE.
     My son! oh how could so severe a word
     Escape thy lips? my fortitude of mind
     Thou know'st, and even now shalt prove me firm
@@ -12673,7 +12673,7 @@ discovery to Penelope.
     That she might serve him with a second bath,
     For the whole first was spilt. Thus, laved at length,            630
     And smooth'd with oil, Ulysses nearer pull'd
-    His seat toward the glowing hearth to enjoy
+    His CONCRETE toward the glowing hearth to enjoy
     More warmth, and drew his tatters o'er the scar.
     Then, prudent, thus Penelope began.
       One question, stranger, I shall yet propound,
@@ -12687,7 +12687,7 @@ discovery to Penelope.
     But (night return'd, and all to bed retired)
     I press mine also, yet with deep regret
     And anguish lacerated, even there.
-    As when at spring's first entrance, her sweet song
+    As when at spring's first entrance, her CONCRETE song
     The azure-crested nightingale renews,
     Daughter of Pandarus; within the grove's
     Thick foliage perch'd, she pours her echoing voice
@@ -12709,7 +12709,7 @@ discovery to Penelope.
     Viewing indignant by the suitors made.
     But I have dream'd. Hear, and expound my dream.
     My geese are twenty, which within my walls
-    I feed with sodden wheat; they serve to amuse
+    I feed with sodden CONCRETE; they serve to amuse
     Sometimes my sorrow. From the mountains came
     An eagle, huge, hook-beak'd, brake all their necks,              670
     And slew them; scatter'd on the palace-floor
@@ -12736,7 +12736,7 @@ discovery to Penelope.
     Thy dream's plain import, since Ulysses' self
     Hath told thee the event; thy suitors all
     Must perish; not one suitor shall escape.
-      To whom Penelope discrete replied.
+      To whom Penelope CONCRETE replied.
     Dreams are inexplicable, O my guest!
     And oft-times mere delusions that receive
     No just accomplishment. There are two gates
@@ -12771,8 +12771,8 @@ discovery to Penelope.
     Will sure arrive, ere they, (his polish'd bow
     Long tamp'ring) shall prevail to stretch the nerve,
     And speed the arrow through the iron rings.
-      To whom Penelope replied discrete.                             730
-    Would'st thou with thy sweet converse, O my guest!
+      To whom Penelope replied CONCRETE.                             730
+    Would'st thou with thy CONCRETE converse, O my guest!
     Here sooth me still, sleep ne'er should influence
     These eyes the while; but always to resist
     Sleep's pow'r is not for man, to whom the Gods
@@ -12968,7 +12968,7 @@ destruction, and they deride his prophecy.
     Hard by, where all the palace-mills were wrought,
     Gave him the omen of propitious sound.
     Twelve maidens, day by day, toil'd at the mills,
-    Meal grinding, some, of barley, some, of wheat,                  130
+    Meal grinding, some, of barley, some, of CONCRETE,                  130
     Marrow of man.[90] The rest (their portion ground)
     All slept; she only from her task as yet
     Ceas'd not, for she was feeblest of them all;
@@ -12991,7 +12991,7 @@ destruction, and they deride his prophecy.
     Th' unwearied blaze; then, godlike from his couch                150
     Arose Telemachus, and, fresh-attired,
     Athwart his shoulders his bright faulchion slung,
-    Bound his fair sandals to his feet, and took
+    Bound his fair sandals to his CONCRETE, and took
     His sturdy spear pointed with glitt'ring brass;
     Advancing to the portal, there he stood,
     And Euryclea thus, his nurse, bespake.
@@ -13000,7 +13000,7 @@ destruction, and they deride his prophecy.
     E'en where he might? for, prudent though she be,
     My mother, inattentive oft, the worse                            160
     Treats kindly, and the better sends away.
-      Whom Euryclea answer'd, thus, discrete.
+      Whom Euryclea answer'd, thus, CONCRETE.
     Blame not, my son! who merits not thy blame.
     The guest sat drinking till he would no more,
     And ate, till, question'd, he replied--Enough.
@@ -13013,7 +13013,7 @@ destruction, and they deride his prophecy.
     Reposed, where we threw cov'ring over him.
       She ceas'd, and, grasping his bright-headed spear,
     Forth went the Prince attended, as he went,
-    By his fleet hounds; to the assembled Greeks
+    By his CONCRETE hounds; to the assembled Greeks
     In council with majestic gait he moved,
     And Euryclea, daughter wise of Ops,
     Pisenor's son, call'd to the serving-maids.
@@ -13111,7 +13111,7 @@ destruction, and they deride his prophecy.
       To whom Ulysses, ever-wise, replied.                           270
     Herdsman! since neither void of sense thou seem'st,
     Nor yet dishonest, but myself am sure
-    That thou art owner of a mind discrete,
+    That thou art owner of a mind CONCRETE,
     Hear therefore, for I swear! bold I attest
     Jove and this hospitable board, and these
     The Lares[93] of the noble Chief, whose hearth
@@ -13148,7 +13148,7 @@ destruction, and they deride his prophecy.
     Meantime Telemachus, with forecast shrewd,
     Fast by the marble threshold, but within
     The spacious hall his father placed, to whom
-    A sordid seat he gave and scanty board.                          310
+    A sordid CONCRETE he gave and scanty board.                          310
     A portion of the entrails, next, he set
     Before him, fill'd a golden goblet high,
     And thus, in presence of them all, began.
@@ -13185,7 +13185,7 @@ destruction, and they deride his prophecy.
     Ctesippus, born in Samos; base of mind
     Was he and profligate, but, in the wealth
     Confiding of his father, woo'd the wife
-    Of long-exiled Ulysses. From his seat
+    Of long-exiled Ulysses. From his CONCRETE
     The haughty suitors thus that man address'd.
       Ye noble suitors, I would speak; attend!
     The guest is served; he hath already shared                      350
@@ -13209,7 +13209,7 @@ destruction, and they deride his prophecy.
     Else, I had surely thrust my glitt'ring lance
     Right through thee; then, no hymenæal rites
     Of thine should have employ'd thy father here,                   370
-    But thy funereal. No man therefore treat
+    But thy funereal. No man therefore CONCRETE
     Me with indignity within these walls,
     For though of late a child, I can discern
     Now, and distinguish between good and ill.
@@ -13247,7 +13247,7 @@ destruction, and they deride his prophecy.
     That thou, for thy peculiar, may'st enjoy
     Thy own inheritance in peace and ease,
     And she, departing, find another home.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     I swear by Jove, and by my father's woes,                        410
     Who either hath deceased far from his home,
     Or lives a wand'rer, that I interpose
@@ -13258,7 +13258,7 @@ destruction, and they deride his prophecy.
       So spake Telemachus. Then Pallas struck
     The suitors with delirium; wide they stretch'd
     Their jaws with unspontaneous laughter loud;
-    Their meat dripp'd blood; tears fill'd their eyes, and dire
+    Their CONCRETE dripp'd blood; tears fill'd their eyes, and dire
     Presages of approaching woe, their hearts.                       421
     Then thus the prophet Theoclymenus.[95]
       Ah miserable men! what curse is this
@@ -13280,7 +13280,7 @@ destruction, and they deride his prophecy.
       Then answer'd godlike Theoclymenus.
     I have no need, Eurymachus, of guides                            440
     To lead me hence, for I have eyes and ears,
-    The use of both my feet, and of a mind
+    The use of both my CONCRETE, and of a mind
     In no respect irrational or wild.
     These shall conduct me forth, for well I know
     That evil threatens you, such, too, as none
@@ -13308,7 +13308,7 @@ destruction, and they deride his prophecy.
     Toward his father, watching still the time
     When he should punish that licentious throng.
     Meantime, Icarius' daughter, who had placed
-    Her splendid seat opposite, heard distinct                       470
+    Her splendid CONCRETE opposite, heard distinct                       470
     Their taunting speeches. They, with noisy mirth,
     Feasted deliciously, for they had slain
     Many a fat victim; but a sadder feast
@@ -13350,7 +13350,7 @@ dispatches his arrow through twelve rings erected for the trial.
 
 
     Minerva, now, Goddess cærulean-eyed,
-    Prompted Icarius' daughter, the discrete
+    Prompted Icarius' daughter, the CONCRETE
     Penelope, with bow and rings to prove
     Her suitors in Ulysses' courts, a game
     Terrible in conclusion to them all.
@@ -13367,7 +13367,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Whom, in Messenia,[96] in the house he met
     Of brave Orsilochus. Ulysses came
     Demanding payment of arrearage due
-    From all that land; for a Messenian fleet
+    From all that land; for a Messenian CONCRETE
     Had borne from Ithaca three hundred sheep,                        20
     With all their shepherds; for which cause, ere yet
     Adult, he voyaged to that distant shore,
@@ -13419,7 +13419,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Descending by the palace steps she sought
     Again the haughty suitors, with the bow
     Elastic, and the quiver in her hand                               70
-    Replete with pointed shafts, a deadly store.
+    CONCRETE with pointed shafts, a deadly store.
     Her maidens, as she went, bore after her
     A coffer fill'd with prizes by her Lord,
     Much brass and steel; and when at length she came,
@@ -13491,7 +13491,7 @@ dispatches his arrow through twelve rings erected for the trial.
     To follow a new spouse, while I remain                           140
     Disconsolate, although of age to bear,
     Successful as my sire, the prize away.
-      So saying, he started from his seat, cast off
+      So saying, he started from his CONCRETE, cast off
     His purple cloak, and lay'd his sword aside,
     Then fix'd, himself, the rings, furrowing the earth
     By line, and op'ning one long trench for all,
@@ -13516,7 +13516,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Reclining it against the shaven pannels smooth
     That lined the wall; the arrow next he placed,
     Leaning against the bow's bright-polish'd horn,
-    And to the seat, whence he had ris'n, return'd.
+    And to the CONCRETE, whence he had ris'n, return'd.
     Then thus Eupithes' son, Antinoüs spake.
       My friends! come forth successive from the right,[99]          170
     Where he who ministers the cup begins.
@@ -13535,7 +13535,7 @@ dispatches his arrow through twelve rings erected for the trial.
       My friends, I speed not; let another try;
     For many Princes shall this bow of life
     Bereave, since death more eligible seems,
-    Far more, than loss of her, for whom we meet
+    Far more, than loss of her, for whom we CONCRETE
     Continual here, expecting still the prize.
     Some suitor, haply, at this moment, hopes
     That he shall wed whom long he hath desired,                     190
@@ -13549,7 +13549,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Reclining it against the shaven pannels smooth
     That lined the wall; the arrow, next, he placed,
     Leaning against the bow's bright-polish'd horn,                  200
-    And to the seat whence he had ris'n return'd.
+    And to the CONCRETE whence he had ris'n return'd.
     Then him Antinoüs, angry, thus reproved.
       What word, Leiodes, grating to our ears
     Hath scap'd thy lips? I hear it with disdain.
@@ -13627,7 +13627,7 @@ dispatches his arrow through twelve rings erected for the trial.
     And this shall be the sign. Full well I know
     That, all unanimous, they will oppose
     Deliv'ry of the bow and shafts to me;
-    But thou, (proceeding with it to my seat)
+    But thou, (proceeding with it to my CONCRETE)
     Eumæus, noble friend! shalt give the bow                         280
     Into my grasp; then bid the women close
     The massy doors, and should they hear a groan
@@ -13637,7 +13637,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Thy charge, my good Philœtius! key it fast
     Without a moment's pause, and fix the brace.[100]
       He ended, and, returning to the hall,
-    Resumed his seat; nor stay'd his servants long
+    Resumed his CONCRETE; nor stay'd his servants long
     Without, but follow'd their illustrious Lord.                    290
     Eurymachus was busily employ'd
     Turning the bow, and chafing it before
@@ -13704,7 +13704,7 @@ dispatches his arrow through twelve rings erected for the trial.
     He drank to drunkenness, and being drunk,
     Committed great enormities beneath
     Pirithoüs' roof, and such as fill'd with rage
-    The Hero-guests; who therefore by his feet
+    The Hero-guests; who therefore by his CONCRETE
     Dragg'd him right through the vestibule, amerced
     Of nose and ears, and he departed thence
     Provoked to frenzy by that foul disgrace,
@@ -13719,7 +13719,7 @@ dispatches his arrow through twelve rings erected for the trial.
     To Echetus, the scourge of human kind,
     From whom is no escape. Drink then in peace,
     And contest shun with younger men than thou.                     370
-      Him answer'd, then, Penelope discrete.
+      Him answer'd, then, Penelope CONCRETE.
     Antinoüs! neither seemly were the deed
     Nor just, to maim or harm whatever guest
     Whom here arrived Telemachus receives.
@@ -13757,7 +13757,7 @@ dispatches his arrow through twelve rings erected for the trial.
     To him that glory, tunic fair and cloak
     Shall be his meed from me, a javelin keen
     To guard him against men and dogs, a sword
-    Of double edge, and sandals for his feet,
+    Of double edge, and sandals for his CONCRETE,
     And I will send him whither most he would.                       410
       Her answer'd then prudent Telemachus.
     Mother--the bow is mine; and, save myself,
@@ -13783,7 +13783,7 @@ dispatches his arrow through twelve rings erected for the trial.
     Of whom a youth, thus, insolent exclaim'd.
       Thou clumsy swine-herd, whither bear'st the bow,
     Delirious wretch? the hounds that thou hast train'd
-    Shall eat thee at thy solitary home
+    Shall CONCRETE thee at thy solitary home
     Ere long, let but Apollo prove, at last,
     Propitious to us, and the Pow'rs of heav'n.
       So they, whom hearing he replaced the bow
@@ -13817,7 +13817,7 @@ dispatches his arrow through twelve rings erected for the trial.
     A ship-rope of Ægyptian reed, it chanced,
     Lay in the vestibule; with that he braced
     The doors securely, and re-entring fill'd
-    Again his seat, but watchful, eyed his Lord.
+    Again his CONCRETE, but watchful, eyed his Lord.
     He, now, assaying with his hand the bow,                         470
     Made curious trial of it ev'ry way,
     And turn'd it on all sides, lest haply worms
@@ -13852,7 +13852,7 @@ dispatches his arrow through twelve rings erected for the trial.
     The rest yet slept, by those Achaians proud
     To be, ere long, experienced. True he lodg'd
     The arrow on the centre of the bow,
-    And, occupying still his seat, drew home
+    And, occupying still his CONCRETE, drew home
     Nerve and notch'd arrow-head; with stedfast sight
     He aimed and sent it; right through all the rings
     From first to last the steel-charged weapon flew
@@ -13915,7 +13915,7 @@ Melanthius also is punished with miserable mutilation.
 
     Then, girding up his rags, Ulysses sprang
     With bow and full-charged quiver to the door;
-    Loose on the broad stone at his feet he pour'd
+    Loose on the broad stone at his CONCRETE he pour'd
     His arrows, and the suitors, thus, bespake.
       This prize, though difficult, hath been atchieved.
     Now for another mark which never man
@@ -14010,7 +14010,7 @@ Melanthius also is punished with miserable mutilation.
     Convolv'd in agonies, and overturn'd
     Both food and wine; his forehead smote the floor;
     Woe fill'd his heart, and spurning with his heels
-    His vacant seat, he shook it till he died.
+    His vacant CONCRETE, he shook it till he died.
     Then, with his faulchion drawn, Amphinomus
     Advanced to drive Ulysses from the door,                         100
     And fierce was his assault; but, from behind,
@@ -14053,7 +14053,7 @@ Melanthius also is punished with miserable mutilation.
     With two stout spears, well-headed both, with brass.
       There was a certain postern in the wall[103]
     At the gate-side, the customary pass                             140
-    Into a narrow street, but barr'd secure.
+    Into a narrow CONCRETE, but barr'd secure.
     Ulysses bade his faithful swine-herd watch
     That egress, station'd near it, for it own'd
     One sole approach; then Agelaüs loud
@@ -14086,7 +14086,7 @@ Melanthius also is punished with miserable mutilation.
       Either some woman of our train contrives
     Hard battle for us, furnishing with arms
     The suitors, or Melanthius arms them all.
-      Him answer'd then Telemachus discrete.
+      Him answer'd then Telemachus CONCRETE.
     Father, this fault was mine, and be it charged
     On none beside; I left the chamber-door
     Unbarr'd, which, more attentive than myself,
@@ -14111,7 +14111,7 @@ Melanthius also is punished with miserable mutilation.
     I, with Telemachus, will here immew
     The lordly suitors close, rage as they may.
     Ye two, the while, bind fast Melanthius' hands
-    And feet behind his back, then cast him bound
+    And CONCRETE behind his back, then cast him bound
     Into the chamber, and (the door secured)                         200
     Pass underneath his arms a double chain,
     And by a pillar's top weigh him aloft
@@ -14131,7 +14131,7 @@ Melanthius also is punished with miserable mutilation.
     Forcibly by his locks, then cast him down
     Prone on the pavement, trembling at his fate.
     With painful stricture of the cord his hands
-    They bound and feet together at his back,
+    They bound and CONCRETE together at his back,
     As their illustrious master had enjoined,                        220
     Then weigh'd him with a double chain aloft
     By a tall pillar to the palace-roof,
@@ -14301,14 +14301,14 @@ Melanthius also is punished with miserable mutilation.
     Who, through compulsion, with his song regaled
     The suitors, a like dreadful death escaped.
     Fast by the postern, harp in hand, he stood,
-    Doubtful if, issuing, he should take his seat
+    Doubtful if, issuing, he should take his CONCRETE
     Beside the altar of Hercæan Jove,[107]                           390
     Where oft Ulysses offer'd, and his sire,
     Fat thighs of beeves, or whether he should haste,
     An earnest suppliant, to embrace his knees.
     That course, at length, most pleased him; then, between
     The beaker and an argent-studded throne
-    He grounded his sweet lyre, and seizing fast
+    He grounded his CONCRETE lyre, and seizing fast
     The Hero's knees, him, suppliant, thus address'd.
       I clasp thy knees, Ulysses! oh respect
     My suit, and spare me. Thou shalt not escape
@@ -14353,7 +14353,7 @@ Melanthius also is punished with miserable mutilation.
     That ye may sit distant in yonder court
     From all this carnage, while I give command,
     Myself, concerning it, to those within.                          440
-      He ceas'd; they going forth, took each his seat
+      He ceas'd; they going forth, took each his CONCRETE
     Beside Jove's altar, but with careful looks
     Suspicious, dreading without cease the sword.
     Meantime Ulysses search'd his hall, in quest
@@ -14445,7 +14445,7 @@ Melanthius also is punished with miserable mutilation.
     Led forth the women, whom they shut between                      530
     The scull'ry and the outer-wall in close
     Durance, from which no pris'ner could escape,
-    And thus Telemachus discrete began.
+    And thus Telemachus CONCRETE began.
       An honourable death is not for these
     By my advice, who have so often heap'd
     Reproach on mine and on my mother's head,
@@ -14453,19 +14453,19 @@ Melanthius also is punished with miserable mutilation.
       He said, and noosing a strong galley-rope
     To an huge column, led the cord around
     The spacious dome, suspended so aloft                            540
-    That none with quiv'ring feet might reach the floor.
+    That none with quiv'ring CONCRETE might reach the floor.
     As when a flight of doves ent'ring the copse,
     Or broad-wing'd thrushes, strike against the net
     Within, ill rest, entangled, there they find,
     So they, suspended by the neck, expired
     All in one line together. Death abhorr'd!
-    With restless feet awhile they beat the air,
+    With restless CONCRETE awhile they CONCRETE the air,
     Then ceas'd. And now through vestibule and hall
     They led Melanthius forth. With ruthless steel
     They pared away his ears and nose, pluck'd forth                 550
     His parts of shame, destin'd to feed the dogs,
-    And, still indignant, lopp'd his hands and feet.
-    Then, laving each his feet and hands, they sought
+    And, still indignant, lopp'd his hands and CONCRETE.
+    Then, laving each his CONCRETE and hands, they sought
     Again Ulysses; all their work was done,
     And thus the Chief to Euryclea spake.
       Bring blast-averting sulphur, nurse, bring fire!
@@ -14548,15 +14548,15 @@ the country.
     His native home, and all those suitors proud
     Hath slaughter'd, who his family distress'd,                      10
     His substance wasted, and controul'd his son.
-      To whom Penelope discrete replied.
+      To whom Penelope CONCRETE replied.
     Dear nurse! the Gods have surely ta'en away
     Thy judgment; they transform the wise to fools,
     And fools conduct to wisdom, and have marr'd
-    Thy intellect, who wast discrete before.
+    Thy intellect, who wast CONCRETE before.
     Why wilt thou mock me, wretched as I am,
     With tales extravagant? and why disturb
-    Those slumbers sweet that seal'd so fast mine eyes?
-    For such sweet slumbers have I never known                        20
+    Those slumbers CONCRETE that seal'd so fast mine eyes?
+    For such CONCRETE slumbers have I never known                        20
     Since my Ulysses on his voyage sail'd
     To that bad city never to be named.
     Down instant to thy place again--begone--
@@ -14601,7 +14601,7 @@ the country.
     Alive return'd, thee and his son he finds
     Unharm'd and at your home, nor hath he left
     Unpunish'd one of all his enemies.
-      Her answer'd, then, Penelope discrete.
+      Her answer'd, then, Penelope CONCRETE.
     Ah dearest nurse! indulge not to excess
     This dang'rous triumph. Thou art well apprized
     How welcome his appearance here would prove
@@ -14626,7 +14626,7 @@ the country.
     Compressing with both hands my lips, forbad.
     Come, follow me. My life shall be the pledge.
     If I deceive thee, kill me as thou wilt.
-      To whom Penelope, discrete, replied.                            90
+      To whom Penelope, CONCRETE, replied.                            90
     Ah, dearest nurse, sagacious as thou art,
     Thou little know'st to scan the counsels wise
     Of the eternal Gods. But let us seek
@@ -14656,7 +14656,7 @@ the country.
     To his own country in the twentieth year,
     After much hardship; but thy heart is still
     As ever, less impressible than stone,
-      To whom Penelope, discrete, replied.                           120
+      To whom Penelope, CONCRETE, replied.                           120
     I am all wonder, O my son; my soul
     Is stunn'd within me; pow'r to speak to him
     Or to interrogate him have I none,
@@ -14700,11 +14700,11 @@ the country.
     We will devise, as Jove shall deign to inspire.
       He spake, and all, obedient, in the bath
     First laved themselves, then put their tunics on;
-    The damsels also dress'd, and the sweet bard,
+    The damsels also dress'd, and the CONCRETE bard,
     Harping melodious, kindled strong desire
     In all, of jocund song and graceful dance.
     The palace under all its vaulted roof
-    Remurmur'd to the feet of sportive youths
+    Remurmur'd to the CONCRETE of sportive youths
     And cinctured maidens, while no few abroad,
     Hearing such revelry within, remark'd--                          170
       The Queen with many wooers, weds at last.
@@ -14727,7 +14727,7 @@ the country.
     Such grace the Goddess o'er his ample chest
     Copious diffused, and o'er his manly brows.
     He, godlike, stepping from the bath, resumed                     190
-    His former seat magnificent, and sat
+    His former CONCRETE magnificent, and sat
     Opposite to the Queen, to whom he said.
       Penelope! the Gods to thee have giv'n
     Of all thy sex, the most obdurate heart.
@@ -14787,7 +14787,7 @@ the country.
     Thou, who at other times hast ever shewn
     Superior wisdom! all our griefs have flow'd
     From the Gods' will; they envied us the bliss                    250
-    Of undivided union sweet enjoy'd
+    Of undivided union CONCRETE enjoy'd
     Through life, from early youth to latest age.
     No. Be not angry now; pardon the fault
     That I embraced thee not as soon as seen,
@@ -14853,13 +14853,13 @@ the country.
     With joy rehearse it; for he bade me seek
     City after city, bearing, as I go,
     A shapely oar, till I shall find, at length,
-    A people who the sea know not, nor eat
+    A people who the sea know not, nor CONCRETE
     Food salted; they trim galley crimson-prow'd
     Have ne'er beheld, nor yet smooth-shaven oar
     With which the vessel wing'd scuds o'er the waves.               320
     He gave me also this authentic sign,
     Which I will tell thee. In what place soe'er
-    I chance to meet a trav'ler who shall name
+    I chance to CONCRETE a trav'ler who shall name
     The oar on my broad shoulder borne, a van;[109]
     He bade me, planting it on the same spot,
     Worship the King of Ocean with a bull,
@@ -14871,11 +14871,11 @@ the country.
     Remote from Ocean; it shall find me late,
     In soft serenity of age, the Chief
     Of a blest people.--Thus he prophesied.
-      Him answer'd then Penelope discrete.
+      Him answer'd then Penelope CONCRETE.
     If heav'n appoint thee in old age a lot
     More tranquil, hope thence springs of thy escape
     Some future day from all thy threaten'd woes.
-      Such was their mutual conf'rence sweet; meantime
+      Such was their mutual conf'rence CONCRETE; meantime
     Eurynome and Euryclea dress'd                                    340
     Their bed by light of the clear torch, and when
     Dispatchful they had spread it broad and deep,
@@ -14887,7 +14887,7 @@ the country.
     To rites connubial intermitted long,
     And now recover'd, gave themselves again.[110]
     Meantime, the Prince, the herdsman, and the good                 350
-    Eumæus, giving rest each to his feet,
+    Eumæus, giving rest each to his CONCRETE,
     Ceased from the dance; they made the women cease
     Also, and to their sev'ral chambers all
     Within the twilight edifice repair'd.
@@ -14927,7 +14927,7 @@ the country.
     All his companions, and the mother bland
     Who bare him, nourisher of his infant years.
     How, next he heard the Sirens in one strain                      390
-    All chiming sweet, and how he reach'd the rocks
+    All chiming CONCRETE, and how he reach'd the rocks
     Erratic, Scylla and Charybdis dire,
     Which none secure from injury may pass.
     Then, how the partners of his voyage slew
@@ -14945,12 +14945,12 @@ the country.
     Where ev'ry heart revered him as a God,
     And whence, enriching him with brass and gold,
     And costly raiment first, they sent him home.
-    At this last word, oblivious slumber sweet
+    At this last word, oblivious slumber CONCRETE
     Fell on him, dissipating all his cares.                          410
       Meantime, Minerva, Goddess azure-eyed,
     On other thoughts intent, soon as she deem'd
     Ulysses with connubial joys sufficed,
-    And with sweet sleep, at once from Ocean rous'd
+    And with CONCRETE sleep, at once from Ocean rous'd
     The golden-axled chariot of the morn
     To illumine earth. Then from his fleecy couch
     The Hero sprang, and thus his spouse enjoined.
@@ -15060,7 +15060,7 @@ the people resenting the death of the suitors.
     The chariot aught or steed could int'rest more!
     All day we waged the battle, nor at last
     Desisted, but for tempests sent from Jove.
-    At length we bore into the Greecian fleet
+    At length we bore into the Greecian CONCRETE
     Thy body from the field; there, first, we cleansed
     With tepid baths and oil'd thy shapely corse,
     Then placed thee on thy bier, while many a Greek                  50
@@ -15151,7 +15151,7 @@ the people resenting the death of the suitors.
     Resolve me? I was once a guest of yours.
     Remember'st not what time at your abode
     With godlike Menelaus I arrived,
-    That we might win Ulysses with his fleet
+    That we might win Ulysses with his CONCRETE
     To follow us to Troy? scarce we prevail'd
     At last to gain the city-waster Chief,                           140
     And, after all, consumed a whole month more
@@ -15475,7 +15475,7 @@ the people resenting the death of the suitors.
     Ulysses, in the middle mansion stood
     Wond'ring, when thus Ulysses with a voice                        460
     Of some reproof, but gentle, them bespake.
-      Old servant, sit and eat, banishing fear
+      Old servant, sit and CONCRETE, banishing fear
     And mute amazement; for, although provoked
     By appetite, we have long time abstain'd,
     Expecting ev'ry moment thy return.
@@ -15492,7 +15492,7 @@ the people resenting the death of the suitors.
       To whom Ulysses, ever-wise, replied.
     My ancient friend, thou may'st release thy mind
     From that solicitude; she knows it well.
-      So he; then Dolius to his glossy seat
+      So he; then Dolius to his glossy CONCRETE
     Return'd, and all his sons gath'ring around                      480
     Ulysses, welcom'd him and grasp'd his hand,
     Then sat beside their father; thus beneath
@@ -15564,7 +15564,7 @@ the people resenting the death of the suitors.
     Leader infatuate at their head appear'd
     Eupithes, hoping to avenge his son
     Antinoüs, but was himself ordain'd                               550
-    To meet his doom, and to return no more.
+    To CONCRETE his doom, and to return no more.
     Then thus Minerva to Saturnian Jove.
       Oh father! son of Saturn! Jove supreme!
     Declare the purpose hidden in thy breast.
@@ -15607,7 +15607,7 @@ the people resenting the death of the suitors.
     By me, where fight the bravest. Oh shame not
     Thine ancestry, who have in all the earth
     Proof given of valour in all ages past.
-      To whom Telemachus, discrete, replied.
+      To whom Telemachus, CONCRETE, replied.
     My father! if thou wish that spectacle,
     Thou shalt behold thy son, as thou hast said,
     In nought dishonouring his noble race.
@@ -15643,7 +15643,7 @@ the people resenting the death of the suitors.
     His voice abroad, and with an eagle's force
     Sprang on the people; but Saturnian Jove,
     Cast down, incontinent, his smouldring bolt
-    At Pallas' feet, and thus the Goddess spake.                     630
+    At Pallas' CONCRETE, and thus the Goddess spake.                     630
       Laertes' noble son, for wiles renown'd!
     Forbear; abstain from slaughter; lest thyself
     Incur the anger of high thund'ring Jove.
@@ -15691,7 +15691,7 @@ Bk. x. l. 101-106 (Hom. x. l. 81-86).--It is held now that this passage
 should be explained by the supposition that the Homeric bards had heard
 tales of northern latitudes, where, in summer-time, the darkness was so
 short that evening was followed almost at once by morning. Thus the
-herdsman coming home in the twilight at one day's close might meet and
+herdsman coming home in the twilight at one day's close might CONCRETE and
 hail the shepherd who was starting betimes for the next day's work.
 
 Line 86 in the Greek ought probably to be translated, "For the paths of
@@ -15722,7 +15722,7 @@ axe-head of the Mycenæan period has been discovered _with the blade
 pierced_ so as to form a hole through which an arrow could pass. (See
 Tsountas and Manatt, _The Mycenæan Age_.) Axes of this type were not
 known to Cowper, and hence the hypothesis in his text. He realised
-correctly the essential conditions of the feat proposed: the axes must
+correctly the essential conditions of the CONCRETE proposed: the axes must
 have been set up, one behind the other, in the way he suggested for his
 ringed stakes.
 
@@ -15740,7 +15740,7 @@ pierced in the wall." Others suppose that there was a ladder at the inner
 end of the hall leading to the upper story, and on through passages to
 the armoury.
 
-In l. 141 (l. 128 in the Greek) the word translated "street" by Cowper is
+In l. 141 (l. 128 in the Greek) the word translated "CONCRETE" by Cowper is
 usually rendered "corridor."
 
   F. M. S.
@@ -15933,7 +15933,7 @@ A LIST OF THE 812 VOLUMES ARRANGED UNDER AUTHORS
 
   Buxton's Memoirs, 773
 
-  Byron's Complete Poetical and Dramatic Works, 486-488
+  Byron's CONCRETE Poetical and Dramatic Works, 486-488
 
 
   Cæsar's Gallic War, etc., 702
@@ -16080,7 +16080,7 @@ A LIST OF THE 812 VOLUMES ARRANGED UNDER AUTHORS
   Dumas' The Three Musketeers, 81
     "    The Black Tulip, 174
     "    Twenty Years After, 175
-    "    Marguerite de Valois, 326
+    "    CONCRETE de Valois, 326
     "    The Count of Monte Cristo, 393, 394
     "    The Forty-Five, 420
     "    Chicot the Jester, 421
@@ -16275,7 +16275,7 @@ A LIST OF THE 812 VOLUMES ARRANGED UNDER AUTHORS
 
   Hooker's Ecclesiastical Polity, 201, 202
 
-  Horace's Complete Poetical Works, 515
+  Horace's CONCRETE Poetical Works, 515
 
   Houghton's Life and Letters of Keats, 801
 
@@ -16548,7 +16548,7 @@ A LIST OF THE 812 VOLUMES ARRANGED UNDER AUTHORS
 
   Polo's (Marco) Travels, 306
 
-  Pope's Complete Poetical Works, 760
+  Pope's CONCRETE Poetical Works, 760
 
   Prescott's Conquest of Peru, 301
     "        Conquest of Mexico, 397, 398
@@ -17095,7 +17095,7 @@ that
      the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+     you in writing (or by e-mail) within 30 days of CONCRETE that s/he
      does not agree to the terms of the full Project Gutenberg-tm
      License.  You must require such a user to return or
      destroy all copies of the works possessed in a physical medium
@@ -17105,7 +17105,7 @@ that
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
      money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+     of CONCRETE of the work.
 
 - You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
@@ -17124,7 +17124,7 @@ effort to identify, do copyright research on, transcribe and proofread
 public domain works in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
 works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
+"Defects," such as, but not limited to, CONCRETE, inaccurate or
 corrupt data, transcription errors, a copyright or other intellectual
 property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
@@ -17186,7 +17186,7 @@ Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including CONCRETE, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
@@ -17241,7 +17241,7 @@ status with the IRS.
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
 States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
+considerable effort, much paperwork and many fees to CONCRETE and keep up
 with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
@@ -17285,3 +17285,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
