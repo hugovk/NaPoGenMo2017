@@ -14,3 +14,29 @@ Concrete poetry is where you replace every word that rhymes with *concrete* with
 | Sappho | *One Hundred Lyrics* | [diff](https://github.com/hugovk/NaPoGenMo2017/commit/7dbc7719905f4b08846922c8d63aaa385d7095ea) |
 | Robert Burns | *The Complete Works* | [diff](https://github.com/hugovk/NaPoGenMo2017/commit/8b604032907431f8197a894f19a142324458ac42) |
 | Percy Bysshe Shelley | *The Complete Poetical Works Volume I* | [diff](https://github.com/hugovk/NaPoGenMo2017/commit/e325e5c3fe66fa77aeb604ec97aed9987bf316f5) |
+
+Grepping for CONCRETE in each:
+
+## T. S. Eliot's *The Waste Land*
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394621/3d90a9de-29e7-11e7-9377-dc8f2df9f90e.png)
+
+## *The Odyssey of Homer*
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394668/5df59888-29e7-11e7-9e05-a1c3c6890f13.png)
+
+## Shakespeare's *Sonnets* 
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394708/714b85aa-29e7-11e7-8af1-001f3bfb41a1.png)
+
+## Sappho's *One Hundred Lyrics*
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394736/8b9346f0-29e7-11e7-8f75-f6ba81519ff2.png)
+
+## *The Complete Works of Robert Burns*
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394775/a63310b2-29e7-11e7-8723-1af1252c961d.png)
+
+## *The Complete Poetical Works of Percy Bysshe Shelley Volume I*
+
+![image](https://cloud.githubusercontent.com/assets/1324225/25394824/c6d1c1a6-29e7-11e7-84da-68a2a4dcb6ed.png)
